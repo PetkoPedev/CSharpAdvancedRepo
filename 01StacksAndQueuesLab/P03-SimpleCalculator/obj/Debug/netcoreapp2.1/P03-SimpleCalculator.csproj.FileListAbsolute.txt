@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P03-SimpleCalculator\bin\Debug\netcoreapp2.1\P03-SimpleCalculator.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P03-SimpleCalculator\bin\Debug\netcoreapp2.1\P03-SimpleCalculator.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P03-SimpleCalculator\bin\Debug\netcoreapp2.1\P03-SimpleCalculator.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P03-SimpleCalculator\bin\Debug\netcoreapp2.1\P03-SimpleCalculator.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P03-SimpleCalculator\bin\Debug\netcoreapp2.1\P03-SimpleCalculator.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P03-SimpleCalculator\obj\Debug\netcoreapp2.1\P03-SimpleCalculator.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P03-SimpleCalculator\obj\Debug\netcoreapp2.1\P03-SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P03-SimpleCalculator\obj\Debug\netcoreapp2.1\P03-SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P03-SimpleCalculator\obj\Debug\netcoreapp2.1\P03-SimpleCalculator.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P03-SimpleCalculator\obj\Debug\netcoreapp2.1\P03-SimpleCalculator.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P03-SimpleCalculator\obj\Debug\netcoreapp2.1\P03-SimpleCalculator.pdb

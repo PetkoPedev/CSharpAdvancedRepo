@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P02-StackSum\bin\Debug\netcoreapp2.1\P02-StackSum.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P02-StackSum\bin\Debug\netcoreapp2.1\P02-StackSum.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P02-StackSum\bin\Debug\netcoreapp2.1\P02-StackSum.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P02-StackSum\bin\Debug\netcoreapp2.1\P02-StackSum.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P02-StackSum\bin\Debug\netcoreapp2.1\P02-StackSum.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P02-StackSum\obj\Debug\netcoreapp2.1\P02-StackSum.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P02-StackSum\obj\Debug\netcoreapp2.1\P02-StackSum.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P02-StackSum\obj\Debug\netcoreapp2.1\P02-StackSum.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P02-StackSum\obj\Debug\netcoreapp2.1\P02-StackSum.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P02-StackSum\obj\Debug\netcoreapp2.1\P02-StackSum.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P02-StackSum\obj\Debug\netcoreapp2.1\P02-StackSum.pdb
