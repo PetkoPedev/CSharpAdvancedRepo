@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P05-PrintEvenNumbers\bin\Debug\netcoreapp2.1\P05-PrintEvenNumbers.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P05-PrintEvenNumbers\bin\Debug\netcoreapp2.1\P05-PrintEvenNumbers.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P05-PrintEvenNumbers\bin\Debug\netcoreapp2.1\P05-PrintEvenNumbers.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P05-PrintEvenNumbers\bin\Debug\netcoreapp2.1\P05-PrintEvenNumbers.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P05-PrintEvenNumbers\bin\Debug\netcoreapp2.1\P05-PrintEvenNumbers.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P05-PrintEvenNumbers\obj\Debug\netcoreapp2.1\P05-PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P05-PrintEvenNumbers\obj\Debug\netcoreapp2.1\P05-PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P05-PrintEvenNumbers\obj\Debug\netcoreapp2.1\P05-PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P05-PrintEvenNumbers\obj\Debug\netcoreapp2.1\P05-PrintEvenNumbers.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P05-PrintEvenNumbers\obj\Debug\netcoreapp2.1\P05-PrintEvenNumbers.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P05-PrintEvenNumbers\obj\Debug\netcoreapp2.1\P05-PrintEvenNumbers.csprojAssemblyReference.cache

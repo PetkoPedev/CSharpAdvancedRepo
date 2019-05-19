@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P04-MatchingBrackets\bin\Debug\netcoreapp2.1\P04-MatchingBrackets.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P04-MatchingBrackets\bin\Debug\netcoreapp2.1\P04-MatchingBrackets.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P04-MatchingBrackets\bin\Debug\netcoreapp2.1\P04-MatchingBrackets.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P04-MatchingBrackets\bin\Debug\netcoreapp2.1\P04-MatchingBrackets.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P04-MatchingBrackets\bin\Debug\netcoreapp2.1\P04-MatchingBrackets.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P04-MatchingBrackets\obj\Debug\netcoreapp2.1\P04-MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P04-MatchingBrackets\obj\Debug\netcoreapp2.1\P04-MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P04-MatchingBrackets\obj\Debug\netcoreapp2.1\P04-MatchingBrackets.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P04-MatchingBrackets\obj\Debug\netcoreapp2.1\P04-MatchingBrackets.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P04-MatchingBrackets\obj\Debug\netcoreapp2.1\P04-MatchingBrackets.pdb

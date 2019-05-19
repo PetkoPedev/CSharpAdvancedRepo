@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P08-TrafficJam\bin\Debug\netcoreapp2.1\P08-TrafficJam.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P08-TrafficJam\bin\Debug\netcoreapp2.1\P08-TrafficJam.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P08-TrafficJam\bin\Debug\netcoreapp2.1\P08-TrafficJam.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P08-TrafficJam\bin\Debug\netcoreapp2.1\P08-TrafficJam.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P08-TrafficJam\bin\Debug\netcoreapp2.1\P08-TrafficJam.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P08-TrafficJam\obj\Debug\netcoreapp2.1\P08-TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P08-TrafficJam\obj\Debug\netcoreapp2.1\P08-TrafficJam.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P08-TrafficJam\obj\Debug\netcoreapp2.1\P08-TrafficJam.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P08-TrafficJam\obj\Debug\netcoreapp2.1\P08-TrafficJam.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P08-TrafficJam\obj\Debug\netcoreapp2.1\P08-TrafficJam.pdb
