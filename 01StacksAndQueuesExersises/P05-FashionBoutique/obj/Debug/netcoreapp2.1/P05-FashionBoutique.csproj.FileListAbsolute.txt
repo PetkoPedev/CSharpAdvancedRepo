@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P05-FashionBoutique\bin\Debug\netcoreapp2.1\P05-FashionBoutique.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P05-FashionBoutique\bin\Debug\netcoreapp2.1\P05-FashionBoutique.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P05-FashionBoutique\bin\Debug\netcoreapp2.1\P05-FashionBoutique.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P05-FashionBoutique\bin\Debug\netcoreapp2.1\P05-FashionBoutique.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P05-FashionBoutique\bin\Debug\netcoreapp2.1\P05-FashionBoutique.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P05-FashionBoutique\obj\Debug\netcoreapp2.1\P05-FashionBoutique.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P05-FashionBoutique\obj\Debug\netcoreapp2.1\P05-FashionBoutique.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P05-FashionBoutique\obj\Debug\netcoreapp2.1\P05-FashionBoutique.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P05-FashionBoutique\obj\Debug\netcoreapp2.1\P05-FashionBoutique.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P05-FashionBoutique\obj\Debug\netcoreapp2.1\P05-FashionBoutique.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P05-FashionBoutique\obj\Debug\netcoreapp2.1\P05-FashionBoutique.pdb

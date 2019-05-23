@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P04-FastFood\bin\Debug\netcoreapp2.1\P04-FastFood.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P04-FastFood\bin\Debug\netcoreapp2.1\P04-FastFood.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P04-FastFood\bin\Debug\netcoreapp2.1\P04-FastFood.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P04-FastFood\bin\Debug\netcoreapp2.1\P04-FastFood.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P04-FastFood\bin\Debug\netcoreapp2.1\P04-FastFood.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P04-FastFood\obj\Debug\netcoreapp2.1\P04-FastFood.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P04-FastFood\obj\Debug\netcoreapp2.1\P04-FastFood.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P04-FastFood\obj\Debug\netcoreapp2.1\P04-FastFood.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P04-FastFood\obj\Debug\netcoreapp2.1\P04-FastFood.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P04-FastFood\obj\Debug\netcoreapp2.1\P04-FastFood.pdb

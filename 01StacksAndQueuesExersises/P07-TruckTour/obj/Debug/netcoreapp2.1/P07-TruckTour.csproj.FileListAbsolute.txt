@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P07-TruckTour\bin\Debug\netcoreapp2.1\P07-TruckTour.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P07-TruckTour\bin\Debug\netcoreapp2.1\P07-TruckTour.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P07-TruckTour\bin\Debug\netcoreapp2.1\P07-TruckTour.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P07-TruckTour\bin\Debug\netcoreapp2.1\P07-TruckTour.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P07-TruckTour\bin\Debug\netcoreapp2.1\P07-TruckTour.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P07-TruckTour\obj\Debug\netcoreapp2.1\P07-TruckTour.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P07-TruckTour\obj\Debug\netcoreapp2.1\P07-TruckTour.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P07-TruckTour\obj\Debug\netcoreapp2.1\P07-TruckTour.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P07-TruckTour\obj\Debug\netcoreapp2.1\P07-TruckTour.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P07-TruckTour\obj\Debug\netcoreapp2.1\P07-TruckTour.pdb

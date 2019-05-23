@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P03-MaximumAndMinimumElement\bin\Debug\netcoreapp2.1\P03-MaximumAndMinimumElement.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P03-MaximumAndMinimumElement\bin\Debug\netcoreapp2.1\P03-MaximumAndMinimumElement.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P03-MaximumAndMinimumElement\bin\Debug\netcoreapp2.1\P03-MaximumAndMinimumElement.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P03-MaximumAndMinimumElement\bin\Debug\netcoreapp2.1\P03-MaximumAndMinimumElement.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P03-MaximumAndMinimumElement\bin\Debug\netcoreapp2.1\P03-MaximumAndMinimumElement.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P03-MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\P03-MaximumAndMinimumElement.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P03-MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\P03-MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P03-MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\P03-MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P03-MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\P03-MaximumAndMinimumElement.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P03-MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\P03-MaximumAndMinimumElement.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P03-MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\P03-MaximumAndMinimumElement.pdb

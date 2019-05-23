@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P02-BasicQueueOperations\bin\Debug\netcoreapp2.1\P02-BasicQueueOperations.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P02-BasicQueueOperations\bin\Debug\netcoreapp2.1\P02-BasicQueueOperations.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P02-BasicQueueOperations\bin\Debug\netcoreapp2.1\P02-BasicQueueOperations.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P02-BasicQueueOperations\bin\Debug\netcoreapp2.1\P02-BasicQueueOperations.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P02-BasicQueueOperations\bin\Debug\netcoreapp2.1\P02-BasicQueueOperations.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P02-BasicQueueOperations\obj\Debug\netcoreapp2.1\P02-BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P02-BasicQueueOperations\obj\Debug\netcoreapp2.1\P02-BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P02-BasicQueueOperations\obj\Debug\netcoreapp2.1\P02-BasicQueueOperations.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P02-BasicQueueOperations\obj\Debug\netcoreapp2.1\P02-BasicQueueOperations.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P02-BasicQueueOperations\obj\Debug\netcoreapp2.1\P02-BasicQueueOperations.pdb

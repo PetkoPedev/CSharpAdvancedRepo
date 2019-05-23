@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P01-BasicStackOperations\bin\Debug\netcoreapp2.1\P01-BasicStackOperations.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P01-BasicStackOperations\bin\Debug\netcoreapp2.1\P01-BasicStackOperations.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P01-BasicStackOperations\bin\Debug\netcoreapp2.1\P01-BasicStackOperations.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P01-BasicStackOperations\bin\Debug\netcoreapp2.1\P01-BasicStackOperations.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P01-BasicStackOperations\bin\Debug\netcoreapp2.1\P01-BasicStackOperations.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P01-BasicStackOperations\obj\Debug\netcoreapp2.1\P01-BasicStackOperations.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P01-BasicStackOperations\obj\Debug\netcoreapp2.1\P01-BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P01-BasicStackOperations\obj\Debug\netcoreapp2.1\P01-BasicStackOperations.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P01-BasicStackOperations\obj\Debug\netcoreapp2.1\P01-BasicStackOperations.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P01-BasicStackOperations\obj\Debug\netcoreapp2.1\P01-BasicStackOperations.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P01-BasicStackOperations\obj\Debug\netcoreapp2.1\P01-BasicStackOperations.pdb

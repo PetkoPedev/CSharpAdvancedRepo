@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P06-AutoRepairAndService\bin\Debug\netcoreapp2.1\P06-AutoRepairAndService.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P06-AutoRepairAndService\bin\Debug\netcoreapp2.1\P06-AutoRepairAndService.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P06-AutoRepairAndService\bin\Debug\netcoreapp2.1\P06-AutoRepairAndService.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P06-AutoRepairAndService\bin\Debug\netcoreapp2.1\P06-AutoRepairAndService.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P06-AutoRepairAndService\bin\Debug\netcoreapp2.1\P06-AutoRepairAndService.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P06-AutoRepairAndService\obj\Debug\netcoreapp2.1\P06-AutoRepairAndService.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P06-AutoRepairAndService\obj\Debug\netcoreapp2.1\P06-AutoRepairAndService.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P06-AutoRepairAndService\obj\Debug\netcoreapp2.1\P06-AutoRepairAndService.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P06-AutoRepairAndService\obj\Debug\netcoreapp2.1\P06-AutoRepairAndService.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P06-AutoRepairAndService\obj\Debug\netcoreapp2.1\P06-AutoRepairAndService.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P06-AutoRepairAndService\obj\Debug\netcoreapp2.1\P06-AutoRepairAndService.pdb

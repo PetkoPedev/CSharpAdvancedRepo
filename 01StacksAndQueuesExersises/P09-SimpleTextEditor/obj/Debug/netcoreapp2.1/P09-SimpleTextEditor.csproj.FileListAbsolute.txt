@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P09-SimpleTextEditor\bin\Debug\netcoreapp2.1\P09-SimpleTextEditor.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P09-SimpleTextEditor\bin\Debug\netcoreapp2.1\P09-SimpleTextEditor.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P09-SimpleTextEditor\bin\Debug\netcoreapp2.1\P09-SimpleTextEditor.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P09-SimpleTextEditor\bin\Debug\netcoreapp2.1\P09-SimpleTextEditor.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P09-SimpleTextEditor\bin\Debug\netcoreapp2.1\P09-SimpleTextEditor.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P09-SimpleTextEditor\obj\Debug\netcoreapp2.1\P09-SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P09-SimpleTextEditor\obj\Debug\netcoreapp2.1\P09-SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P09-SimpleTextEditor\obj\Debug\netcoreapp2.1\P09-SimpleTextEditor.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P09-SimpleTextEditor\obj\Debug\netcoreapp2.1\P09-SimpleTextEditor.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P09-SimpleTextEditor\obj\Debug\netcoreapp2.1\P09-SimpleTextEditor.pdb

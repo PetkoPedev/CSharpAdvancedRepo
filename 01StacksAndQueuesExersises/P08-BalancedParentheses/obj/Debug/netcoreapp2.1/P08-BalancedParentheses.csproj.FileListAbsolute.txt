@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P08-BalancedParentheses\bin\Debug\netcoreapp2.1\P08-BalancedParentheses.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P08-BalancedParentheses\bin\Debug\netcoreapp2.1\P08-BalancedParentheses.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P08-BalancedParentheses\bin\Debug\netcoreapp2.1\P08-BalancedParentheses.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P08-BalancedParentheses\bin\Debug\netcoreapp2.1\P08-BalancedParentheses.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P08-BalancedParentheses\bin\Debug\netcoreapp2.1\P08-BalancedParentheses.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P08-BalancedParentheses\obj\Debug\netcoreapp2.1\P08-BalancedParentheses.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P08-BalancedParentheses\obj\Debug\netcoreapp2.1\P08-BalancedParentheses.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P08-BalancedParentheses\obj\Debug\netcoreapp2.1\P08-BalancedParentheses.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P08-BalancedParentheses\obj\Debug\netcoreapp2.1\P08-BalancedParentheses.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P08-BalancedParentheses\obj\Debug\netcoreapp2.1\P08-BalancedParentheses.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P08-BalancedParentheses\obj\Debug\netcoreapp2.1\P08-BalancedParentheses.pdb

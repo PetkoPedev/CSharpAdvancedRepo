@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P10-Crossroads\bin\Debug\netcoreapp2.1\P10-Crossroads.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P10-Crossroads\bin\Debug\netcoreapp2.1\P10-Crossroads.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P10-Crossroads\bin\Debug\netcoreapp2.1\P10-Crossroads.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P10-Crossroads\bin\Debug\netcoreapp2.1\P10-Crossroads.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P10-Crossroads\bin\Debug\netcoreapp2.1\P10-Crossroads.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P10-Crossroads\obj\Debug\netcoreapp2.1\P10-Crossroads.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P10-Crossroads\obj\Debug\netcoreapp2.1\P10-Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P10-Crossroads\obj\Debug\netcoreapp2.1\P10-Crossroads.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P10-Crossroads\obj\Debug\netcoreapp2.1\P10-Crossroads.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P10-Crossroads\obj\Debug\netcoreapp2.1\P10-Crossroads.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesExersises\P10-Crossroads\obj\Debug\netcoreapp2.1\P10-Crossroads.pdb
