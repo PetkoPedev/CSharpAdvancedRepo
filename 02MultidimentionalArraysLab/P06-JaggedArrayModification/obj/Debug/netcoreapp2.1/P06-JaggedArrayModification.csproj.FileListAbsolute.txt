@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P06-JaggedArrayModification\bin\Debug\netcoreapp2.1\P06-JaggedArrayModification.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P06-JaggedArrayModification\bin\Debug\netcoreapp2.1\P06-JaggedArrayModification.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P06-JaggedArrayModification\bin\Debug\netcoreapp2.1\P06-JaggedArrayModification.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P06-JaggedArrayModification\bin\Debug\netcoreapp2.1\P06-JaggedArrayModification.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P06-JaggedArrayModification\bin\Debug\netcoreapp2.1\P06-JaggedArrayModification.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P06-JaggedArrayModification\obj\Debug\netcoreapp2.1\P06-JaggedArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P06-JaggedArrayModification\obj\Debug\netcoreapp2.1\P06-JaggedArrayModification.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P06-JaggedArrayModification\obj\Debug\netcoreapp2.1\P06-JaggedArrayModification.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P06-JaggedArrayModification\obj\Debug\netcoreapp2.1\P06-JaggedArrayModification.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P06-JaggedArrayModification\obj\Debug\netcoreapp2.1\P06-JaggedArrayModification.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P06-JaggedArrayModification\obj\Debug\netcoreapp2.1\P06-JaggedArrayModification.csprojAssemblyReference.cache

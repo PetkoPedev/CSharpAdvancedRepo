@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P07-PascalTriangle\bin\Debug\netcoreapp2.1\P07-PascalTriangle.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P07-PascalTriangle\bin\Debug\netcoreapp2.1\P07-PascalTriangle.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P07-PascalTriangle\bin\Debug\netcoreapp2.1\P07-PascalTriangle.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P07-PascalTriangle\bin\Debug\netcoreapp2.1\P07-PascalTriangle.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P07-PascalTriangle\bin\Debug\netcoreapp2.1\P07-PascalTriangle.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P07-PascalTriangle\obj\Debug\netcoreapp2.1\P07-PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P07-PascalTriangle\obj\Debug\netcoreapp2.1\P07-PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P07-PascalTriangle\obj\Debug\netcoreapp2.1\P07-PascalTriangle.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P07-PascalTriangle\obj\Debug\netcoreapp2.1\P07-PascalTriangle.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P07-PascalTriangle\obj\Debug\netcoreapp2.1\P07-PascalTriangle.pdb

@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P05-SquareWithMaximumSum\bin\Debug\netcoreapp2.1\P05-SquareWithMaximumSum.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P05-SquareWithMaximumSum\bin\Debug\netcoreapp2.1\P05-SquareWithMaximumSum.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P05-SquareWithMaximumSum\bin\Debug\netcoreapp2.1\P05-SquareWithMaximumSum.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P05-SquareWithMaximumSum\bin\Debug\netcoreapp2.1\P05-SquareWithMaximumSum.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P05-SquareWithMaximumSum\bin\Debug\netcoreapp2.1\P05-SquareWithMaximumSum.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P05-SquareWithMaximumSum\obj\Debug\netcoreapp2.1\P05-SquareWithMaximumSum.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P05-SquareWithMaximumSum\obj\Debug\netcoreapp2.1\P05-SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P05-SquareWithMaximumSum\obj\Debug\netcoreapp2.1\P05-SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P05-SquareWithMaximumSum\obj\Debug\netcoreapp2.1\P05-SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P05-SquareWithMaximumSum\obj\Debug\netcoreapp2.1\P05-SquareWithMaximumSum.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P05-SquareWithMaximumSum\obj\Debug\netcoreapp2.1\P05-SquareWithMaximumSum.pdb

@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P01-SumMatrixElements\bin\Debug\netcoreapp2.1\P01-SumMatrixElements.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P01-SumMatrixElements\bin\Debug\netcoreapp2.1\P01-SumMatrixElements.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P01-SumMatrixElements\bin\Debug\netcoreapp2.1\P01-SumMatrixElements.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P01-SumMatrixElements\bin\Debug\netcoreapp2.1\P01-SumMatrixElements.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P01-SumMatrixElements\bin\Debug\netcoreapp2.1\P01-SumMatrixElements.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P01-SumMatrixElements\obj\Debug\netcoreapp2.1\P01-SumMatrixElements.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P01-SumMatrixElements\obj\Debug\netcoreapp2.1\P01-SumMatrixElements.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P01-SumMatrixElements\obj\Debug\netcoreapp2.1\P01-SumMatrixElements.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P01-SumMatrixElements\obj\Debug\netcoreapp2.1\P01-SumMatrixElements.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P01-SumMatrixElements\obj\Debug\netcoreapp2.1\P01-SumMatrixElements.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P01-SumMatrixElements\obj\Debug\netcoreapp2.1\P01-SumMatrixElements.csprojAssemblyReference.cache

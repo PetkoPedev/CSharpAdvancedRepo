@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P04-SymbolInMatrix\bin\Debug\netcoreapp2.1\P04-SymbolInMatrix.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P04-SymbolInMatrix\bin\Debug\netcoreapp2.1\P04-SymbolInMatrix.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P04-SymbolInMatrix\bin\Debug\netcoreapp2.1\P04-SymbolInMatrix.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P04-SymbolInMatrix\bin\Debug\netcoreapp2.1\P04-SymbolInMatrix.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P04-SymbolInMatrix\bin\Debug\netcoreapp2.1\P04-SymbolInMatrix.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P04-SymbolInMatrix\obj\Debug\netcoreapp2.1\P04-SymbolInMatrix.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P04-SymbolInMatrix\obj\Debug\netcoreapp2.1\P04-SymbolInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P04-SymbolInMatrix\obj\Debug\netcoreapp2.1\P04-SymbolInMatrix.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P04-SymbolInMatrix\obj\Debug\netcoreapp2.1\P04-SymbolInMatrix.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P04-SymbolInMatrix\obj\Debug\netcoreapp2.1\P04-SymbolInMatrix.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysLab\P04-SymbolInMatrix\obj\Debug\netcoreapp2.1\P04-SymbolInMatrix.pdb
