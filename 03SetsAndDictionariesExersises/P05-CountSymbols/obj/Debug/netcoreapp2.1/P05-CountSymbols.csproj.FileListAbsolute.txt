@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P05-CountSymbols\bin\Debug\netcoreapp2.1\P05-CountSymbols.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P05-CountSymbols\bin\Debug\netcoreapp2.1\P05-CountSymbols.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P05-CountSymbols\bin\Debug\netcoreapp2.1\P05-CountSymbols.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P05-CountSymbols\bin\Debug\netcoreapp2.1\P05-CountSymbols.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P05-CountSymbols\bin\Debug\netcoreapp2.1\P05-CountSymbols.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P05-CountSymbols\obj\Debug\netcoreapp2.1\P05-CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P05-CountSymbols\obj\Debug\netcoreapp2.1\P05-CountSymbols.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P05-CountSymbols\obj\Debug\netcoreapp2.1\P05-CountSymbols.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P05-CountSymbols\obj\Debug\netcoreapp2.1\P05-CountSymbols.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P05-CountSymbols\obj\Debug\netcoreapp2.1\P05-CountSymbols.pdb

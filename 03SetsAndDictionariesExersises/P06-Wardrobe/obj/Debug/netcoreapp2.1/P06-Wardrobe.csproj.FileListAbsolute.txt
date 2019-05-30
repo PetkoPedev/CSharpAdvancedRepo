@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P06-Wardrobe\bin\Debug\netcoreapp2.1\P06-Wardrobe.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P06-Wardrobe\bin\Debug\netcoreapp2.1\P06-Wardrobe.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P06-Wardrobe\bin\Debug\netcoreapp2.1\P06-Wardrobe.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P06-Wardrobe\bin\Debug\netcoreapp2.1\P06-Wardrobe.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P06-Wardrobe\bin\Debug\netcoreapp2.1\P06-Wardrobe.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P06-Wardrobe\obj\Debug\netcoreapp2.1\P06-Wardrobe.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P06-Wardrobe\obj\Debug\netcoreapp2.1\P06-Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P06-Wardrobe\obj\Debug\netcoreapp2.1\P06-Wardrobe.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P06-Wardrobe\obj\Debug\netcoreapp2.1\P06-Wardrobe.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P06-Wardrobe\obj\Debug\netcoreapp2.1\P06-Wardrobe.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P06-Wardrobe\obj\Debug\netcoreapp2.1\P06-Wardrobe.pdb

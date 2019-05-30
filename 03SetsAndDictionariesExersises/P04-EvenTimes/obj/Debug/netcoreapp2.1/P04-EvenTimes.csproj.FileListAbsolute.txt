@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P04-EvenTimes\bin\Debug\netcoreapp2.1\P04-EvenTimes.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P04-EvenTimes\bin\Debug\netcoreapp2.1\P04-EvenTimes.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P04-EvenTimes\bin\Debug\netcoreapp2.1\P04-EvenTimes.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P04-EvenTimes\bin\Debug\netcoreapp2.1\P04-EvenTimes.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P04-EvenTimes\bin\Debug\netcoreapp2.1\P04-EvenTimes.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P04-EvenTimes\obj\Debug\netcoreapp2.1\P04-EvenTimes.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P04-EvenTimes\obj\Debug\netcoreapp2.1\P04-EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P04-EvenTimes\obj\Debug\netcoreapp2.1\P04-EvenTimes.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P04-EvenTimes\obj\Debug\netcoreapp2.1\P04-EvenTimes.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P04-EvenTimes\obj\Debug\netcoreapp2.1\P04-EvenTimes.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P04-EvenTimes\obj\Debug\netcoreapp2.1\P04-EvenTimes.pdb
