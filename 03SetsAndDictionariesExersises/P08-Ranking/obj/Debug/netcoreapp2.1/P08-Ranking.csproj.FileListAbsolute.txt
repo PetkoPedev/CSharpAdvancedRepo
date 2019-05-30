@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P08-Ranking\bin\Debug\netcoreapp2.1\P08-Ranking.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P08-Ranking\bin\Debug\netcoreapp2.1\P08-Ranking.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P08-Ranking\bin\Debug\netcoreapp2.1\P08-Ranking.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P08-Ranking\bin\Debug\netcoreapp2.1\P08-Ranking.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P08-Ranking\bin\Debug\netcoreapp2.1\P08-Ranking.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P08-Ranking\obj\Debug\netcoreapp2.1\P08-Ranking.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P08-Ranking\obj\Debug\netcoreapp2.1\P08-Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P08-Ranking\obj\Debug\netcoreapp2.1\P08-Ranking.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P08-Ranking\obj\Debug\netcoreapp2.1\P08-Ranking.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P08-Ranking\obj\Debug\netcoreapp2.1\P08-Ranking.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesExersises\P08-Ranking\obj\Debug\netcoreapp2.1\P08-Ranking.pdb
