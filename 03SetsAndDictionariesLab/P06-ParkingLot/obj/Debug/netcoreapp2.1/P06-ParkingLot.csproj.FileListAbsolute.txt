@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P06-ParkingLot\bin\Debug\netcoreapp2.1\P06-ParkingLot.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P06-ParkingLot\bin\Debug\netcoreapp2.1\P06-ParkingLot.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P06-ParkingLot\bin\Debug\netcoreapp2.1\P06-ParkingLot.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P06-ParkingLot\bin\Debug\netcoreapp2.1\P06-ParkingLot.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P06-ParkingLot\bin\Debug\netcoreapp2.1\P06-ParkingLot.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P06-ParkingLot\obj\Debug\netcoreapp2.1\P06-ParkingLot.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P06-ParkingLot\obj\Debug\netcoreapp2.1\P06-ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P06-ParkingLot\obj\Debug\netcoreapp2.1\P06-ParkingLot.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P06-ParkingLot\obj\Debug\netcoreapp2.1\P06-ParkingLot.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P06-ParkingLot\obj\Debug\netcoreapp2.1\P06-ParkingLot.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P06-ParkingLot\obj\Debug\netcoreapp2.1\P06-ParkingLot.pdb

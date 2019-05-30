@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P04-CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\P04-CitiesByContinentAndCountry.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P04-CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\P04-CitiesByContinentAndCountry.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P04-CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\P04-CitiesByContinentAndCountry.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P04-CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\P04-CitiesByContinentAndCountry.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P04-CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\P04-CitiesByContinentAndCountry.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P04-CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\P04-CitiesByContinentAndCountry.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P04-CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\P04-CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P04-CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\P04-CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P04-CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\P04-CitiesByContinentAndCountry.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P04-CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\P04-CitiesByContinentAndCountry.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P04-CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\P04-CitiesByContinentAndCountry.pdb

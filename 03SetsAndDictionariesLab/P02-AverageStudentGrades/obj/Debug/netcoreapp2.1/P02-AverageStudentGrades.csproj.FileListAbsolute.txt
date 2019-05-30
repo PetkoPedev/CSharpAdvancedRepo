@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P02-AverageStudentGrades\bin\Debug\netcoreapp2.1\P02-AverageStudentGrades.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P02-AverageStudentGrades\bin\Debug\netcoreapp2.1\P02-AverageStudentGrades.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P02-AverageStudentGrades\bin\Debug\netcoreapp2.1\P02-AverageStudentGrades.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P02-AverageStudentGrades\bin\Debug\netcoreapp2.1\P02-AverageStudentGrades.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P02-AverageStudentGrades\bin\Debug\netcoreapp2.1\P02-AverageStudentGrades.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P02-AverageStudentGrades\obj\Debug\netcoreapp2.1\P02-AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P02-AverageStudentGrades\obj\Debug\netcoreapp2.1\P02-AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P02-AverageStudentGrades\obj\Debug\netcoreapp2.1\P02-AverageStudentGrades.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P02-AverageStudentGrades\obj\Debug\netcoreapp2.1\P02-AverageStudentGrades.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P02-AverageStudentGrades\obj\Debug\netcoreapp2.1\P02-AverageStudentGrades.pdb

@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P05-RecordUniqueNames\bin\Debug\netcoreapp2.1\P05-RecordUniqueNames.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P05-RecordUniqueNames\bin\Debug\netcoreapp2.1\P05-RecordUniqueNames.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P05-RecordUniqueNames\bin\Debug\netcoreapp2.1\P05-RecordUniqueNames.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P05-RecordUniqueNames\bin\Debug\netcoreapp2.1\P05-RecordUniqueNames.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P05-RecordUniqueNames\bin\Debug\netcoreapp2.1\P05-RecordUniqueNames.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P05-RecordUniqueNames\obj\Debug\netcoreapp2.1\P05-RecordUniqueNames.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P05-RecordUniqueNames\obj\Debug\netcoreapp2.1\P05-RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P05-RecordUniqueNames\obj\Debug\netcoreapp2.1\P05-RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P05-RecordUniqueNames\obj\Debug\netcoreapp2.1\P05-RecordUniqueNames.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P05-RecordUniqueNames\obj\Debug\netcoreapp2.1\P05-RecordUniqueNames.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P05-RecordUniqueNames\obj\Debug\netcoreapp2.1\P05-RecordUniqueNames.pdb

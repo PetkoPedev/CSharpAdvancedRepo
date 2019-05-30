@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P01-CountSameValuesInArray\bin\Debug\netcoreapp2.1\P01-CountSameValuesInArray.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P01-CountSameValuesInArray\bin\Debug\netcoreapp2.1\P01-CountSameValuesInArray.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P01-CountSameValuesInArray\bin\Debug\netcoreapp2.1\P01-CountSameValuesInArray.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P01-CountSameValuesInArray\bin\Debug\netcoreapp2.1\P01-CountSameValuesInArray.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P01-CountSameValuesInArray\bin\Debug\netcoreapp2.1\P01-CountSameValuesInArray.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P01-CountSameValuesInArray\obj\Debug\netcoreapp2.1\P01-CountSameValuesInArray.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P01-CountSameValuesInArray\obj\Debug\netcoreapp2.1\P01-CountSameValuesInArray.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P01-CountSameValuesInArray\obj\Debug\netcoreapp2.1\P01-CountSameValuesInArray.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P01-CountSameValuesInArray\obj\Debug\netcoreapp2.1\P01-CountSameValuesInArray.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P01-CountSameValuesInArray\obj\Debug\netcoreapp2.1\P01-CountSameValuesInArray.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P01-CountSameValuesInArray\obj\Debug\netcoreapp2.1\P01-CountSameValuesInArray.pdb

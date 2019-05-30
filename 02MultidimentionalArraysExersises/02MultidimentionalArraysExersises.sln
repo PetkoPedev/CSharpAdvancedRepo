@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01-DiagonalDifference", "P01-DiagonalDifference\P01-DiagonalDifference.csproj", "{50956984-25A9-4365-89B1-C884952B1ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05-SnakeMoves", "P05-SnakeMoves\P05-SnakeMoves.csproj", "{104F4042-82C4-4E80-AE1C-B57F681FB659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07-KnightGame", "P07-KnightGame\P07-KnightGame.csproj", "{8854EA7F-24A0-49F5-BA39-65A326953935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50956984-25A9-4365-89B1-C884952B1ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50956984-25A9-4365-89B1-C884952B1ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50956984-25A9-4365-89B1-C884952B1ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50956984-25A9-4365-89B1-C884952B1ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{104F4042-82C4-4E80-AE1C-B57F681FB659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104F4042-82C4-4E80-AE1C-B57F681FB659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104F4042-82C4-4E80-AE1C-B57F681FB659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104F4042-82C4-4E80-AE1C-B57F681FB659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8854EA7F-24A0-49F5-BA39-65A326953935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8854EA7F-24A0-49F5-BA39-65A326953935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8854EA7F-24A0-49F5-BA39-65A326953935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8854EA7F-24A0-49F5-BA39-65A326953935}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {058FF6F7-2CB1-4123-9F9F-E72E9AF97A67}
+	EndGlobalSection
+EndGlobal

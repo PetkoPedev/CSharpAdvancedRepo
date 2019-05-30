@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P01-DiagonalDifference\bin\Debug\netcoreapp2.1\P01-DiagonalDifference.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P01-DiagonalDifference\bin\Debug\netcoreapp2.1\P01-DiagonalDifference.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P01-DiagonalDifference\bin\Debug\netcoreapp2.1\P01-DiagonalDifference.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P01-DiagonalDifference\bin\Debug\netcoreapp2.1\P01-DiagonalDifference.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P01-DiagonalDifference\bin\Debug\netcoreapp2.1\P01-DiagonalDifference.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P01-DiagonalDifference\obj\Debug\netcoreapp2.1\P01-DiagonalDifference.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P01-DiagonalDifference\obj\Debug\netcoreapp2.1\P01-DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P01-DiagonalDifference\obj\Debug\netcoreapp2.1\P01-DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P01-DiagonalDifference\obj\Debug\netcoreapp2.1\P01-DiagonalDifference.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P01-DiagonalDifference\obj\Debug\netcoreapp2.1\P01-DiagonalDifference.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P01-DiagonalDifference\obj\Debug\netcoreapp2.1\P01-DiagonalDifference.pdb

@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P07-KnightGame\bin\Debug\netcoreapp2.1\P07-KnightGame.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P07-KnightGame\bin\Debug\netcoreapp2.1\P07-KnightGame.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P07-KnightGame\bin\Debug\netcoreapp2.1\P07-KnightGame.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P07-KnightGame\bin\Debug\netcoreapp2.1\P07-KnightGame.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P07-KnightGame\bin\Debug\netcoreapp2.1\P07-KnightGame.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P07-KnightGame\obj\Debug\netcoreapp2.1\P07-KnightGame.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P07-KnightGame\obj\Debug\netcoreapp2.1\P07-KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P07-KnightGame\obj\Debug\netcoreapp2.1\P07-KnightGame.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P07-KnightGame\obj\Debug\netcoreapp2.1\P07-KnightGame.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P07-KnightGame\obj\Debug\netcoreapp2.1\P07-KnightGame.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P07-KnightGame\obj\Debug\netcoreapp2.1\P07-KnightGame.pdb

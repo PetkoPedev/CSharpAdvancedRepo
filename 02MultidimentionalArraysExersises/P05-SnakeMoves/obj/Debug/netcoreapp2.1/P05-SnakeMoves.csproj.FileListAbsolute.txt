@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P05-SnakeMoves\bin\Debug\netcoreapp2.1\P05-SnakeMoves.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P05-SnakeMoves\bin\Debug\netcoreapp2.1\P05-SnakeMoves.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P05-SnakeMoves\bin\Debug\netcoreapp2.1\P05-SnakeMoves.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P05-SnakeMoves\bin\Debug\netcoreapp2.1\P05-SnakeMoves.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P05-SnakeMoves\bin\Debug\netcoreapp2.1\P05-SnakeMoves.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P05-SnakeMoves\obj\Debug\netcoreapp2.1\P05-SnakeMoves.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P05-SnakeMoves\obj\Debug\netcoreapp2.1\P05-SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P05-SnakeMoves\obj\Debug\netcoreapp2.1\P05-SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P05-SnakeMoves\obj\Debug\netcoreapp2.1\P05-SnakeMoves.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P05-SnakeMoves\obj\Debug\netcoreapp2.1\P05-SnakeMoves.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P05-SnakeMoves\obj\Debug\netcoreapp2.1\P05-SnakeMoves.pdb

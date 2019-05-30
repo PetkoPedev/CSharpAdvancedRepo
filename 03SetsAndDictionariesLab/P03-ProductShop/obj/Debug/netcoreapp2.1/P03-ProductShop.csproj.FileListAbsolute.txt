@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P03-ProductShop\bin\Debug\netcoreapp2.1\P03-ProductShop.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P03-ProductShop\bin\Debug\netcoreapp2.1\P03-ProductShop.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P03-ProductShop\bin\Debug\netcoreapp2.1\P03-ProductShop.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P03-ProductShop\bin\Debug\netcoreapp2.1\P03-ProductShop.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P03-ProductShop\bin\Debug\netcoreapp2.1\P03-ProductShop.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P03-ProductShop\obj\Debug\netcoreapp2.1\P03-ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P03-ProductShop\obj\Debug\netcoreapp2.1\P03-ProductShop.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P03-ProductShop\obj\Debug\netcoreapp2.1\P03-ProductShop.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P03-ProductShop\obj\Debug\netcoreapp2.1\P03-ProductShop.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\03SetsAndDictionariesLab\P03-ProductShop\obj\Debug\netcoreapp2.1\P03-ProductShop.pdb
