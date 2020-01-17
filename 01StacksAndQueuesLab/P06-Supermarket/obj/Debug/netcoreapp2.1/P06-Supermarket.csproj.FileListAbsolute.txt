@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P06-Supermarket\bin\Debug\netcoreapp2.1\P06-Supermarket.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P06-Supermarket\bin\Debug\netcoreapp2.1\P06-Supermarket.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P06-Supermarket\bin\Debug\netcoreapp2.1\P06-Supermarket.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P06-Supermarket\bin\Debug\netcoreapp2.1\P06-Supermarket.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P06-Supermarket\bin\Debug\netcoreapp2.1\P06-Supermarket.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P06-Supermarket\obj\Debug\netcoreapp2.1\P06-Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P06-Supermarket\obj\Debug\netcoreapp2.1\P06-Supermarket.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P06-Supermarket\obj\Debug\netcoreapp2.1\P06-Supermarket.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P06-Supermarket\obj\Debug\netcoreapp2.1\P06-Supermarket.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\01StacksAndQueuesLab\P06-Supermarket\obj\Debug\netcoreapp2.1\P06-Supermarket.pdb
