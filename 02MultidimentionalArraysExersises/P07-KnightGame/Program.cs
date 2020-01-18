@@ -26,7 +26,7 @@ namespace P07_KnightGame
                 int maxCount = 0;
                 int knightsRow = 0;
                 int knightsCol = 0;
-                int knightsCount = 0;
+
                 for (int row = 0; row < board.GetLength(0); row++)
                 {
                     for (int col = 0; col < board.GetLength(1); col++)
@@ -69,7 +69,7 @@ namespace P07_KnightGame
                                 currentCount++;
                             }
 
-                            if (IsInside(board, row - 1, col - 2) && board[row - 1, col - 2] == 'K')
+                            if (IsInside(board, row - 1, col + 2) && board[row - 1, col + 2] == 'K')
                             {
                                 currentCount++;
                             }

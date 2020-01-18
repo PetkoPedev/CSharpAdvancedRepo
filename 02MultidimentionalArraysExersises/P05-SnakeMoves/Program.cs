@@ -20,6 +20,7 @@ namespace P05_SnakeMoves
             string snake = Console.ReadLine();
 
             int counter = 0;
+
             for (int row = 0; row < matrix.GetLength(0); row++)
             {
                 for (int col = 0; col < matrix.GetLength(1); col++)
