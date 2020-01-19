@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P12-TriFunction\bin\Debug\netcoreapp2.1\P12-TriFunction.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P12-TriFunction\bin\Debug\netcoreapp2.1\P12-TriFunction.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P12-TriFunction\bin\Debug\netcoreapp2.1\P12-TriFunction.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P12-TriFunction\bin\Debug\netcoreapp2.1\P12-TriFunction.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P12-TriFunction\bin\Debug\netcoreapp2.1\P12-TriFunction.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P12-TriFunction\obj\Debug\netcoreapp2.1\P12-TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P12-TriFunction\obj\Debug\netcoreapp2.1\P12-TriFunction.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P12-TriFunction\obj\Debug\netcoreapp2.1\P12-TriFunction.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P12-TriFunction\obj\Debug\netcoreapp2.1\P12-TriFunction.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P12-TriFunction\obj\Debug\netcoreapp2.1\P12-TriFunction.pdb

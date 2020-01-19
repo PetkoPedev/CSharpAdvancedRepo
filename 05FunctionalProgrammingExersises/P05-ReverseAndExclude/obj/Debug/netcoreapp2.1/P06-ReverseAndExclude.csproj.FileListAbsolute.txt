@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P05-ReverseAndExclude\bin\Debug\netcoreapp2.1\P06-ReverseAndExclude.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P05-ReverseAndExclude\bin\Debug\netcoreapp2.1\P06-ReverseAndExclude.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P05-ReverseAndExclude\bin\Debug\netcoreapp2.1\P06-ReverseAndExclude.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P05-ReverseAndExclude\bin\Debug\netcoreapp2.1\P06-ReverseAndExclude.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P05-ReverseAndExclude\bin\Debug\netcoreapp2.1\P06-ReverseAndExclude.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P05-ReverseAndExclude\obj\Debug\netcoreapp2.1\P06-ReverseAndExclude.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P05-ReverseAndExclude\obj\Debug\netcoreapp2.1\P06-ReverseAndExclude.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P05-ReverseAndExclude\obj\Debug\netcoreapp2.1\P06-ReverseAndExclude.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P05-ReverseAndExclude\obj\Debug\netcoreapp2.1\P06-ReverseAndExclude.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P05-ReverseAndExclude\obj\Debug\netcoreapp2.1\P06-ReverseAndExclude.pdb

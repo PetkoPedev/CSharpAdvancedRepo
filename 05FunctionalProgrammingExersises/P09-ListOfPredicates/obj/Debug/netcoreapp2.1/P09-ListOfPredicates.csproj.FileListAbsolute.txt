@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P09-ListOfPredicates\bin\Debug\netcoreapp2.1\P09-ListOfPredicates.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P09-ListOfPredicates\bin\Debug\netcoreapp2.1\P09-ListOfPredicates.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P09-ListOfPredicates\bin\Debug\netcoreapp2.1\P09-ListOfPredicates.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P09-ListOfPredicates\bin\Debug\netcoreapp2.1\P09-ListOfPredicates.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P09-ListOfPredicates\bin\Debug\netcoreapp2.1\P09-ListOfPredicates.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P09-ListOfPredicates\obj\Debug\netcoreapp2.1\P09-ListOfPredicates.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P09-ListOfPredicates\obj\Debug\netcoreapp2.1\P09-ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P09-ListOfPredicates\obj\Debug\netcoreapp2.1\P09-ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P09-ListOfPredicates\obj\Debug\netcoreapp2.1\P09-ListOfPredicates.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P09-ListOfPredicates\obj\Debug\netcoreapp2.1\P09-ListOfPredicates.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P09-ListOfPredicates\obj\Debug\netcoreapp2.1\P09-ListOfPredicates.pdb

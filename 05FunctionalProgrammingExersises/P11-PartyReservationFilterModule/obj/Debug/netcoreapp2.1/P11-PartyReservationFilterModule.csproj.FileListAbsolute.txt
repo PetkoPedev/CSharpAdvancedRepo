@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P11-PartyReservationFilterModule\bin\Debug\netcoreapp2.1\P11-PartyReservationFilterModule.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P11-PartyReservationFilterModule\bin\Debug\netcoreapp2.1\P11-PartyReservationFilterModule.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P11-PartyReservationFilterModule\bin\Debug\netcoreapp2.1\P11-PartyReservationFilterModule.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P11-PartyReservationFilterModule\bin\Debug\netcoreapp2.1\P11-PartyReservationFilterModule.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P11-PartyReservationFilterModule\bin\Debug\netcoreapp2.1\P11-PartyReservationFilterModule.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P11-PartyReservationFilterModule\obj\Debug\netcoreapp2.1\P11-PartyReservationFilterModule.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P11-PartyReservationFilterModule\obj\Debug\netcoreapp2.1\P11-PartyReservationFilterModule.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P11-PartyReservationFilterModule\obj\Debug\netcoreapp2.1\P11-PartyReservationFilterModule.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P11-PartyReservationFilterModule\obj\Debug\netcoreapp2.1\P11-PartyReservationFilterModule.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P11-PartyReservationFilterModule\obj\Debug\netcoreapp2.1\P11-PartyReservationFilterModule.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P11-PartyReservationFilterModule\obj\Debug\netcoreapp2.1\P11-PartyReservationFilterModule.pdb

@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P10-PredicateParty\bin\Debug\netcoreapp2.1\P10-PredicateParty.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P10-PredicateParty\bin\Debug\netcoreapp2.1\P10-PredicateParty.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P10-PredicateParty\bin\Debug\netcoreapp2.1\P10-PredicateParty.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P10-PredicateParty\bin\Debug\netcoreapp2.1\P10-PredicateParty.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P10-PredicateParty\bin\Debug\netcoreapp2.1\P10-PredicateParty.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P10-PredicateParty\obj\Debug\netcoreapp2.1\P10-PredicateParty.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P10-PredicateParty\obj\Debug\netcoreapp2.1\P10-PredicateParty.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P10-PredicateParty\obj\Debug\netcoreapp2.1\P10-PredicateParty.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P10-PredicateParty\obj\Debug\netcoreapp2.1\P10-PredicateParty.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P10-PredicateParty\obj\Debug\netcoreapp2.1\P10-PredicateParty.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P10-PredicateParty\obj\Debug\netcoreapp2.1\P10-PredicateParty.pdb

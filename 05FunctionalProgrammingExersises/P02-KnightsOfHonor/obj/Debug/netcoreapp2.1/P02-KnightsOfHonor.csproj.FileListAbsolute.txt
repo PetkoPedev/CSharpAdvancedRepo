@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P02-KnightsOfHonor\bin\Debug\netcoreapp2.1\P02-KnightsOfHonor.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P02-KnightsOfHonor\bin\Debug\netcoreapp2.1\P02-KnightsOfHonor.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P02-KnightsOfHonor\bin\Debug\netcoreapp2.1\P02-KnightsOfHonor.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P02-KnightsOfHonor\bin\Debug\netcoreapp2.1\P02-KnightsOfHonor.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P02-KnightsOfHonor\bin\Debug\netcoreapp2.1\P02-KnightsOfHonor.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P02-KnightsOfHonor\obj\Debug\netcoreapp2.1\P02-KnightsOfHonor.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P02-KnightsOfHonor\obj\Debug\netcoreapp2.1\P02-KnightsOfHonor.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P02-KnightsOfHonor\obj\Debug\netcoreapp2.1\P02-KnightsOfHonor.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P02-KnightsOfHonor\obj\Debug\netcoreapp2.1\P02-KnightsOfHonor.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P02-KnightsOfHonor\obj\Debug\netcoreapp2.1\P02-KnightsOfHonor.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P02-KnightsOfHonor\obj\Debug\netcoreapp2.1\P02-KnightsOfHonor.csprojAssemblyReference.cache

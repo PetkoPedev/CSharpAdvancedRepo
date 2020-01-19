@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P05-AppliedArithmetics\bin\Debug\netcoreapp2.1\P05-AppliedArithmetics.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P05-AppliedArithmetics\bin\Debug\netcoreapp2.1\P05-AppliedArithmetics.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P05-AppliedArithmetics\bin\Debug\netcoreapp2.1\P05-AppliedArithmetics.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P05-AppliedArithmetics\bin\Debug\netcoreapp2.1\P05-AppliedArithmetics.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P05-AppliedArithmetics\bin\Debug\netcoreapp2.1\P05-AppliedArithmetics.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P05-AppliedArithmetics\obj\Debug\netcoreapp2.1\P05-AppliedArithmetics.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P05-AppliedArithmetics\obj\Debug\netcoreapp2.1\P05-AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P05-AppliedArithmetics\obj\Debug\netcoreapp2.1\P05-AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P05-AppliedArithmetics\obj\Debug\netcoreapp2.1\P05-AppliedArithmetics.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P05-AppliedArithmetics\obj\Debug\netcoreapp2.1\P05-AppliedArithmetics.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P05-AppliedArithmetics\obj\Debug\netcoreapp2.1\P05-AppliedArithmetics.pdb

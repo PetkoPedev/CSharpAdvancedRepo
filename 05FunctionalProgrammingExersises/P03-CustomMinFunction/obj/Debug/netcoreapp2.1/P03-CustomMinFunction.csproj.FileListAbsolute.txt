@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P03-CustomMinFunction\bin\Debug\netcoreapp2.1\P03-CustomMinFunction.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P03-CustomMinFunction\bin\Debug\netcoreapp2.1\P03-CustomMinFunction.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P03-CustomMinFunction\bin\Debug\netcoreapp2.1\P03-CustomMinFunction.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P03-CustomMinFunction\bin\Debug\netcoreapp2.1\P03-CustomMinFunction.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P03-CustomMinFunction\bin\Debug\netcoreapp2.1\P03-CustomMinFunction.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P03-CustomMinFunction\obj\Debug\netcoreapp2.1\P03-CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P03-CustomMinFunction\obj\Debug\netcoreapp2.1\P03-CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P03-CustomMinFunction\obj\Debug\netcoreapp2.1\P03-CustomMinFunction.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P03-CustomMinFunction\obj\Debug\netcoreapp2.1\P03-CustomMinFunction.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P03-CustomMinFunction\obj\Debug\netcoreapp2.1\P03-CustomMinFunction.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P03-CustomMinFunction\obj\Debug\netcoreapp2.1\P03-CustomMinFunction.csprojAssemblyReference.cache

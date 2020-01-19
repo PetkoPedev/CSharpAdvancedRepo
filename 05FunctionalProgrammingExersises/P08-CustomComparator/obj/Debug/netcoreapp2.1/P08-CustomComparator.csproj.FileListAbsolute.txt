@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P08-CustomComparator\bin\Debug\netcoreapp2.1\P08-CustomComparator.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P08-CustomComparator\bin\Debug\netcoreapp2.1\P08-CustomComparator.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P08-CustomComparator\bin\Debug\netcoreapp2.1\P08-CustomComparator.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P08-CustomComparator\bin\Debug\netcoreapp2.1\P08-CustomComparator.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P08-CustomComparator\bin\Debug\netcoreapp2.1\P08-CustomComparator.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P08-CustomComparator\obj\Debug\netcoreapp2.1\P08-CustomComparator.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P08-CustomComparator\obj\Debug\netcoreapp2.1\P08-CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P08-CustomComparator\obj\Debug\netcoreapp2.1\P08-CustomComparator.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P08-CustomComparator\obj\Debug\netcoreapp2.1\P08-CustomComparator.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P08-CustomComparator\obj\Debug\netcoreapp2.1\P08-CustomComparator.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P08-CustomComparator\obj\Debug\netcoreapp2.1\P08-CustomComparator.pdb

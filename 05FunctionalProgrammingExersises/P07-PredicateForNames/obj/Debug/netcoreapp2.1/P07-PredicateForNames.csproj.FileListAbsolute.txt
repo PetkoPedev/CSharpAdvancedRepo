@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P07-PredicateForNames\bin\Debug\netcoreapp2.1\P07-PredicateForNames.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P07-PredicateForNames\bin\Debug\netcoreapp2.1\P07-PredicateForNames.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P07-PredicateForNames\bin\Debug\netcoreapp2.1\P07-PredicateForNames.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P07-PredicateForNames\bin\Debug\netcoreapp2.1\P07-PredicateForNames.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P07-PredicateForNames\bin\Debug\netcoreapp2.1\P07-PredicateForNames.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P07-PredicateForNames\obj\Debug\netcoreapp2.1\P07-PredicateForNames.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P07-PredicateForNames\obj\Debug\netcoreapp2.1\P07-PredicateForNames.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P07-PredicateForNames\obj\Debug\netcoreapp2.1\P07-PredicateForNames.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P07-PredicateForNames\obj\Debug\netcoreapp2.1\P07-PredicateForNames.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P07-PredicateForNames\obj\Debug\netcoreapp2.1\P07-PredicateForNames.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingExersises\P07-PredicateForNames\obj\Debug\netcoreapp2.1\P07-PredicateForNames.pdb
