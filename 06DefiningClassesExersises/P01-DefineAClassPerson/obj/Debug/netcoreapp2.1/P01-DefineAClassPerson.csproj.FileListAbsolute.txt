@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P01-DefineAClassPerson\bin\Debug\netcoreapp2.1\P01-DefineAClassPerson.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P01-DefineAClassPerson\bin\Debug\netcoreapp2.1\P01-DefineAClassPerson.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P01-DefineAClassPerson\bin\Debug\netcoreapp2.1\P01-DefineAClassPerson.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P01-DefineAClassPerson\bin\Debug\netcoreapp2.1\P01-DefineAClassPerson.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P01-DefineAClassPerson\bin\Debug\netcoreapp2.1\P01-DefineAClassPerson.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P01-DefineAClassPerson\obj\Debug\netcoreapp2.1\P01-DefineAClassPerson.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P01-DefineAClassPerson\obj\Debug\netcoreapp2.1\P01-DefineAClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P01-DefineAClassPerson\obj\Debug\netcoreapp2.1\P01-DefineAClassPerson.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P01-DefineAClassPerson\obj\Debug\netcoreapp2.1\P01-DefineAClassPerson.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P01-DefineAClassPerson\obj\Debug\netcoreapp2.1\P01-DefineAClassPerson.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P01-DefineAClassPerson\obj\Debug\netcoreapp2.1\P01-DefineAClassPerson.pdb

@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\AdvancedExam-02\P02-SeashellTreasure\bin\Debug\netcoreapp2.1\P02-SeashellTreasure.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\AdvancedExam-02\P02-SeashellTreasure\bin\Debug\netcoreapp2.1\P02-SeashellTreasure.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\AdvancedExam-02\P02-SeashellTreasure\bin\Debug\netcoreapp2.1\P02-SeashellTreasure.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\AdvancedExam-02\P02-SeashellTreasure\bin\Debug\netcoreapp2.1\P02-SeashellTreasure.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\AdvancedExam-02\P02-SeashellTreasure\bin\Debug\netcoreapp2.1\P02-SeashellTreasure.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\AdvancedExam-02\P02-SeashellTreasure\obj\Debug\netcoreapp2.1\P02-SeashellTreasure.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\AdvancedExam-02\P02-SeashellTreasure\obj\Debug\netcoreapp2.1\P02-SeashellTreasure.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\AdvancedExam-02\P02-SeashellTreasure\obj\Debug\netcoreapp2.1\P02-SeashellTreasure.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\AdvancedExam-02\P02-SeashellTreasure\obj\Debug\netcoreapp2.1\P02-SeashellTreasure.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\AdvancedExam-02\P02-SeashellTreasure\obj\Debug\netcoreapp2.1\P02-SeashellTreasure.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\AdvancedExam-02\P02-SeashellTreasure\obj\Debug\netcoreapp2.1\P02-SeashellTreasure.pdb

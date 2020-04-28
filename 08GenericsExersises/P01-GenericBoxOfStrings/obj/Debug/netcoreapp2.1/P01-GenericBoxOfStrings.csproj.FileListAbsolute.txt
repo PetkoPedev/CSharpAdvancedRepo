@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P01-GenericBoxOfStrings\bin\Debug\netcoreapp2.1\P01-GenericBoxOfStrings.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P01-GenericBoxOfStrings\bin\Debug\netcoreapp2.1\P01-GenericBoxOfStrings.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P01-GenericBoxOfStrings\bin\Debug\netcoreapp2.1\P01-GenericBoxOfStrings.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P01-GenericBoxOfStrings\bin\Debug\netcoreapp2.1\P01-GenericBoxOfStrings.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P01-GenericBoxOfStrings\bin\Debug\netcoreapp2.1\P01-GenericBoxOfStrings.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P01-GenericBoxOfStrings\obj\Debug\netcoreapp2.1\P01-GenericBoxOfStrings.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P01-GenericBoxOfStrings\obj\Debug\netcoreapp2.1\P01-GenericBoxOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P01-GenericBoxOfStrings\obj\Debug\netcoreapp2.1\P01-GenericBoxOfStrings.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P01-GenericBoxOfStrings\obj\Debug\netcoreapp2.1\P01-GenericBoxOfStrings.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P01-GenericBoxOfStrings\obj\Debug\netcoreapp2.1\P01-GenericBoxOfStrings.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P01-GenericBoxOfStrings\obj\Debug\netcoreapp2.1\P01-GenericBoxOfStrings.pdb

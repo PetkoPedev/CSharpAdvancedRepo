@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\AdvancedExam-02\P01-SummerCocktails\bin\Debug\netcoreapp2.1\P01-SummerCocktails.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\AdvancedExam-02\P01-SummerCocktails\bin\Debug\netcoreapp2.1\P01-SummerCocktails.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\AdvancedExam-02\P01-SummerCocktails\bin\Debug\netcoreapp2.1\P01-SummerCocktails.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\AdvancedExam-02\P01-SummerCocktails\bin\Debug\netcoreapp2.1\P01-SummerCocktails.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\AdvancedExam-02\P01-SummerCocktails\bin\Debug\netcoreapp2.1\P01-SummerCocktails.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\AdvancedExam-02\P01-SummerCocktails\obj\Debug\netcoreapp2.1\P01-SummerCocktails.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\AdvancedExam-02\P01-SummerCocktails\obj\Debug\netcoreapp2.1\P01-SummerCocktails.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\AdvancedExam-02\P01-SummerCocktails\obj\Debug\netcoreapp2.1\P01-SummerCocktails.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\AdvancedExam-02\P01-SummerCocktails\obj\Debug\netcoreapp2.1\P01-SummerCocktails.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\AdvancedExam-02\P01-SummerCocktails\obj\Debug\netcoreapp2.1\P01-SummerCocktails.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\AdvancedExam-02\P01-SummerCocktails\obj\Debug\netcoreapp2.1\P01-SummerCocktails.pdb

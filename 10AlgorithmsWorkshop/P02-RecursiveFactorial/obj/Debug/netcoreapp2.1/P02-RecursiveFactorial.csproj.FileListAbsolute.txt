@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P02-RecursiveFactorial\bin\Debug\netcoreapp2.1\P02-RecursiveFactorial.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P02-RecursiveFactorial\bin\Debug\netcoreapp2.1\P02-RecursiveFactorial.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P02-RecursiveFactorial\bin\Debug\netcoreapp2.1\P02-RecursiveFactorial.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P02-RecursiveFactorial\bin\Debug\netcoreapp2.1\P02-RecursiveFactorial.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P02-RecursiveFactorial\bin\Debug\netcoreapp2.1\P02-RecursiveFactorial.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P02-RecursiveFactorial\obj\Debug\netcoreapp2.1\P02-RecursiveFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P02-RecursiveFactorial\obj\Debug\netcoreapp2.1\P02-RecursiveFactorial.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P02-RecursiveFactorial\obj\Debug\netcoreapp2.1\P02-RecursiveFactorial.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P02-RecursiveFactorial\obj\Debug\netcoreapp2.1\P02-RecursiveFactorial.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P02-RecursiveFactorial\obj\Debug\netcoreapp2.1\P02-RecursiveFactorial.pdb

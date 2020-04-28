@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsExersises\P03-Stack\bin\Debug\netcoreapp2.1\P03-Stack.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsExersises\P03-Stack\bin\Debug\netcoreapp2.1\P03-Stack.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsExersises\P03-Stack\bin\Debug\netcoreapp2.1\P03-Stack.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsExersises\P03-Stack\bin\Debug\netcoreapp2.1\P03-Stack.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsExersises\P03-Stack\bin\Debug\netcoreapp2.1\P03-Stack.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsExersises\P03-Stack\obj\Debug\netcoreapp2.1\P03-Stack.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsExersises\P03-Stack\obj\Debug\netcoreapp2.1\P03-Stack.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsExersises\P03-Stack\obj\Debug\netcoreapp2.1\P03-Stack.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsExersises\P03-Stack\obj\Debug\netcoreapp2.1\P03-Stack.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsExersises\P03-Stack\obj\Debug\netcoreapp2.1\P03-Stack.pdb

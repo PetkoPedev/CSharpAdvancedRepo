@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P03-GenericSwapMethodStrings\obj\Debug\netcoreapp2.1\P03-GenericSwapMethodStrings.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P03-GenericSwapMethodStrings\obj\Debug\netcoreapp2.1\P03-GenericSwapMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P03-GenericSwapMethodStrings\obj\Debug\netcoreapp2.1\P03-GenericSwapMethodStrings.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P03-GenericSwapMethodStrings\obj\Debug\netcoreapp2.1\P03-GenericSwapMethodStrings.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P03-GenericSwapMethodStrings\bin\Debug\netcoreapp2.1\P03-GenericSwapMethodStrings.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P03-GenericSwapMethodStrings\bin\Debug\netcoreapp2.1\P03-GenericSwapMethodStrings.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P03-GenericSwapMethodStrings\bin\Debug\netcoreapp2.1\P03-GenericSwapMethodStrings.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P03-GenericSwapMethodStrings\bin\Debug\netcoreapp2.1\P03-GenericSwapMethodStrings.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P03-GenericSwapMethodStrings\bin\Debug\netcoreapp2.1\P03-GenericSwapMethodStrings.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P03-GenericSwapMethodStrings\obj\Debug\netcoreapp2.1\P03-GenericSwapMethodStrings.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P03-GenericSwapMethodStrings\obj\Debug\netcoreapp2.1\P03-GenericSwapMethodStrings.pdb

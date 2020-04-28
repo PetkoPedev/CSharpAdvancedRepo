@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P05-FilterByAge\bin\Debug\netcoreapp2.1\P05-FilterByAge.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P05-FilterByAge\bin\Debug\netcoreapp2.1\P05-FilterByAge.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P05-FilterByAge\bin\Debug\netcoreapp2.1\P05-FilterByAge.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P05-FilterByAge\bin\Debug\netcoreapp2.1\P05-FilterByAge.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P05-FilterByAge\bin\Debug\netcoreapp2.1\P05-FilterByAge.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P05-FilterByAge\obj\Debug\netcoreapp2.1\P05-FilterByAge.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P05-FilterByAge\obj\Debug\netcoreapp2.1\P05-FilterByAge.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P05-FilterByAge\obj\Debug\netcoreapp2.1\P05-FilterByAge.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P05-FilterByAge\obj\Debug\netcoreapp2.1\P05-FilterByAge.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P05-FilterByAge\obj\Debug\netcoreapp2.1\P05-FilterByAge.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P05-FilterByAge\obj\Debug\netcoreapp2.1\P05-FilterByAge.pdb

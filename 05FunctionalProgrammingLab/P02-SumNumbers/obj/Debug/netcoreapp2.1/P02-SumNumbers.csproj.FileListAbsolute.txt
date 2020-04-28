@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P02-SumNumbers\bin\Debug\netcoreapp2.1\P02-SumNumbers.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P02-SumNumbers\bin\Debug\netcoreapp2.1\P02-SumNumbers.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P02-SumNumbers\bin\Debug\netcoreapp2.1\P02-SumNumbers.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P02-SumNumbers\bin\Debug\netcoreapp2.1\P02-SumNumbers.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P02-SumNumbers\bin\Debug\netcoreapp2.1\P02-SumNumbers.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P02-SumNumbers\obj\Debug\netcoreapp2.1\P02-SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P02-SumNumbers\obj\Debug\netcoreapp2.1\P02-SumNumbers.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P02-SumNumbers\obj\Debug\netcoreapp2.1\P02-SumNumbers.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P02-SumNumbers\obj\Debug\netcoreapp2.1\P02-SumNumbers.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P02-SumNumbers\obj\Debug\netcoreapp2.1\P02-SumNumbers.pdb

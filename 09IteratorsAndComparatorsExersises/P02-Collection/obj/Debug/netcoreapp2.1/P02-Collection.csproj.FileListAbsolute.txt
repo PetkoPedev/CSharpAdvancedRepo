@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P02-Collection\bin\Debug\netcoreapp2.1\P02-Collection.deps.json
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P02-Collection\bin\Debug\netcoreapp2.1\P02-Collection.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P02-Collection\bin\Debug\netcoreapp2.1\P02-Collection.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P02-Collection\bin\Debug\netcoreapp2.1\P02-Collection.dll
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P02-Collection\bin\Debug\netcoreapp2.1\P02-Collection.pdb
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P02-Collection\obj\Debug\netcoreapp2.1\P02-Collection.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P02-Collection\obj\Debug\netcoreapp2.1\P02-Collection.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P02-Collection\obj\Debug\netcoreapp2.1\P02-Collection.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P02-Collection\obj\Debug\netcoreapp2.1\P02-Collection.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P02-Collection\obj\Debug\netcoreapp2.1\P02-Collection.dll
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P02-Collection\obj\Debug\netcoreapp2.1\P02-Collection.pdb

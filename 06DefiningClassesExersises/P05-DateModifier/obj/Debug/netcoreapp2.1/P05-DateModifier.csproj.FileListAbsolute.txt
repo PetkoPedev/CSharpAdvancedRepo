@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P05-DateModifier\bin\Debug\netcoreapp2.1\P05-DateModifier.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P05-DateModifier\bin\Debug\netcoreapp2.1\P05-DateModifier.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P05-DateModifier\bin\Debug\netcoreapp2.1\P05-DateModifier.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P05-DateModifier\bin\Debug\netcoreapp2.1\P05-DateModifier.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P05-DateModifier\bin\Debug\netcoreapp2.1\P05-DateModifier.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P05-DateModifier\obj\Debug\netcoreapp2.1\P05-DateModifier.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P05-DateModifier\obj\Debug\netcoreapp2.1\P05-DateModifier.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P05-DateModifier\obj\Debug\netcoreapp2.1\P05-DateModifier.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P05-DateModifier\obj\Debug\netcoreapp2.1\P05-DateModifier.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P05-DateModifier\obj\Debug\netcoreapp2.1\P05-DateModifier.pdb

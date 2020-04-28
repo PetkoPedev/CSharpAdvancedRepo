@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P03-MaximalSum\bin\Debug\netcoreapp2.1\P03-MaximalSum.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P03-MaximalSum\bin\Debug\netcoreapp2.1\P03-MaximalSum.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P03-MaximalSum\bin\Debug\netcoreapp2.1\P03-MaximalSum.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P03-MaximalSum\bin\Debug\netcoreapp2.1\P03-MaximalSum.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P03-MaximalSum\bin\Debug\netcoreapp2.1\P03-MaximalSum.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P03-MaximalSum\obj\Debug\netcoreapp2.1\P03-MaximalSum.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P03-MaximalSum\obj\Debug\netcoreapp2.1\P03-MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P03-MaximalSum\obj\Debug\netcoreapp2.1\P03-MaximalSum.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P03-MaximalSum\obj\Debug\netcoreapp2.1\P03-MaximalSum.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P03-MaximalSum\obj\Debug\netcoreapp2.1\P03-MaximalSum.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P03-MaximalSum\obj\Debug\netcoreapp2.1\P03-MaximalSum.pdb

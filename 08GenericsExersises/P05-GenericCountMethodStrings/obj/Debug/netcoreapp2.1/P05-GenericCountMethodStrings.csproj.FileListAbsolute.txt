@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P05-GenericCountMethodStrings\bin\Debug\netcoreapp2.1\P05-GenericCountMethodStrings.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P05-GenericCountMethodStrings\bin\Debug\netcoreapp2.1\P05-GenericCountMethodStrings.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P05-GenericCountMethodStrings\bin\Debug\netcoreapp2.1\P05-GenericCountMethodStrings.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P05-GenericCountMethodStrings\bin\Debug\netcoreapp2.1\P05-GenericCountMethodStrings.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P05-GenericCountMethodStrings\bin\Debug\netcoreapp2.1\P05-GenericCountMethodStrings.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P05-GenericCountMethodStrings\obj\Debug\netcoreapp2.1\P05-GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P05-GenericCountMethodStrings\obj\Debug\netcoreapp2.1\P05-GenericCountMethodStrings.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P05-GenericCountMethodStrings\obj\Debug\netcoreapp2.1\P05-GenericCountMethodStrings.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P05-GenericCountMethodStrings\obj\Debug\netcoreapp2.1\P05-GenericCountMethodStrings.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P05-GenericCountMethodStrings\obj\Debug\netcoreapp2.1\P05-GenericCountMethodStrings.pdb

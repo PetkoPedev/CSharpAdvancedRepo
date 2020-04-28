@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P02-CreatingConstructors\bin\Debug\netcoreapp2.1\P02-CreatingConstructors.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P02-CreatingConstructors\bin\Debug\netcoreapp2.1\P02-CreatingConstructors.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P02-CreatingConstructors\bin\Debug\netcoreapp2.1\P02-CreatingConstructors.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P02-CreatingConstructors\bin\Debug\netcoreapp2.1\P02-CreatingConstructors.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P02-CreatingConstructors\bin\Debug\netcoreapp2.1\P02-CreatingConstructors.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P02-CreatingConstructors\obj\Debug\netcoreapp2.1\P02-CreatingConstructors.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P02-CreatingConstructors\obj\Debug\netcoreapp2.1\P02-CreatingConstructors.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P02-CreatingConstructors\obj\Debug\netcoreapp2.1\P02-CreatingConstructors.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P02-CreatingConstructors\obj\Debug\netcoreapp2.1\P02-CreatingConstructors.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P02-CreatingConstructors\obj\Debug\netcoreapp2.1\P02-CreatingConstructors.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesExersises\P02-CreatingConstructors\obj\Debug\netcoreapp2.1\P02-CreatingConstructors.pdb

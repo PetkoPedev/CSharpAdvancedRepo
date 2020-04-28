@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P04-CarEngineAndTires\bin\Debug\netcoreapp2.1\P04-CarEngineAndTires.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P04-CarEngineAndTires\bin\Debug\netcoreapp2.1\P04-CarEngineAndTires.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P04-CarEngineAndTires\bin\Debug\netcoreapp2.1\P04-CarEngineAndTires.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P04-CarEngineAndTires\bin\Debug\netcoreapp2.1\P04-CarEngineAndTires.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P04-CarEngineAndTires\bin\Debug\netcoreapp2.1\P04-CarEngineAndTires.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P04-CarEngineAndTires\obj\Debug\netcoreapp2.1\P04-CarEngineAndTires.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P04-CarEngineAndTires\obj\Debug\netcoreapp2.1\P04-CarEngineAndTires.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P04-CarEngineAndTires\obj\Debug\netcoreapp2.1\P04-CarEngineAndTires.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P04-CarEngineAndTires\obj\Debug\netcoreapp2.1\P04-CarEngineAndTires.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P04-CarEngineAndTires\obj\Debug\netcoreapp2.1\P04-CarEngineAndTires.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P04-CarEngineAndTires\obj\Debug\netcoreapp2.1\P04-CarEngineAndTires.pdb

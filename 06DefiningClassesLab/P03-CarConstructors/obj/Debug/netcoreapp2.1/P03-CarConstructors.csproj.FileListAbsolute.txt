@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P03-CarConstructors\bin\Debug\netcoreapp2.1\P03-CarConstructors.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P03-CarConstructors\bin\Debug\netcoreapp2.1\P03-CarConstructors.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P03-CarConstructors\bin\Debug\netcoreapp2.1\P03-CarConstructors.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P03-CarConstructors\bin\Debug\netcoreapp2.1\P03-CarConstructors.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P03-CarConstructors\bin\Debug\netcoreapp2.1\P03-CarConstructors.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P03-CarConstructors\obj\Debug\netcoreapp2.1\P03-CarConstructors.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P03-CarConstructors\obj\Debug\netcoreapp2.1\P03-CarConstructors.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P03-CarConstructors\obj\Debug\netcoreapp2.1\P03-CarConstructors.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P03-CarConstructors\obj\Debug\netcoreapp2.1\P03-CarConstructors.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P03-CarConstructors\obj\Debug\netcoreapp2.1\P03-CarConstructors.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P03-CarConstructors\obj\Debug\netcoreapp2.1\P03-CarConstructors.csprojAssemblyReference.cache

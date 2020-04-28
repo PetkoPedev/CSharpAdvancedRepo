@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\ExamPrep-02\P02-HelenAbduction\bin\Debug\netcoreapp2.1\P02-HelenAbduction.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\ExamPrep-02\P02-HelenAbduction\bin\Debug\netcoreapp2.1\P02-HelenAbduction.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\ExamPrep-02\P02-HelenAbduction\bin\Debug\netcoreapp2.1\P02-HelenAbduction.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\ExamPrep-02\P02-HelenAbduction\bin\Debug\netcoreapp2.1\P02-HelenAbduction.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\ExamPrep-02\P02-HelenAbduction\bin\Debug\netcoreapp2.1\P02-HelenAbduction.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\ExamPrep-02\P02-HelenAbduction\obj\Debug\netcoreapp2.1\P02-HelenAbduction.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\ExamPrep-02\P02-HelenAbduction\obj\Debug\netcoreapp2.1\P02-HelenAbduction.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\ExamPrep-02\P02-HelenAbduction\obj\Debug\netcoreapp2.1\P02-HelenAbduction.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\ExamPrep-02\P02-HelenAbduction\obj\Debug\netcoreapp2.1\P02-HelenAbduction.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\ExamPrep-02\P02-HelenAbduction\obj\Debug\netcoreapp2.1\P02-HelenAbduction.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\ExamPrep-02\P02-HelenAbduction\obj\Debug\netcoreapp2.1\P02-HelenAbduction.pdb

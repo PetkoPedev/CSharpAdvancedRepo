@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\07WorkshopExersise\07WorkshopExersise\bin\Debug\netcoreapp2.1\07WorkshopExersise.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\07WorkshopExersise\07WorkshopExersise\bin\Debug\netcoreapp2.1\07WorkshopExersise.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\07WorkshopExersise\07WorkshopExersise\bin\Debug\netcoreapp2.1\07WorkshopExersise.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\07WorkshopExersise\07WorkshopExersise\bin\Debug\netcoreapp2.1\07WorkshopExersise.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\07WorkshopExersise\07WorkshopExersise\bin\Debug\netcoreapp2.1\07WorkshopExersise.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\07WorkshopExersise\07WorkshopExersise\obj\Debug\netcoreapp2.1\07WorkshopExersise.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\07WorkshopExersise\07WorkshopExersise\obj\Debug\netcoreapp2.1\07WorkshopExersise.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\07WorkshopExersise\07WorkshopExersise\obj\Debug\netcoreapp2.1\07WorkshopExersise.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\07WorkshopExersise\07WorkshopExersise\obj\Debug\netcoreapp2.1\07WorkshopExersise.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\07WorkshopExersise\07WorkshopExersise\obj\Debug\netcoreapp2.1\07WorkshopExersise.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\07WorkshopExersise\07WorkshopExersise\obj\Debug\netcoreapp2.1\07WorkshopExersise.pdb

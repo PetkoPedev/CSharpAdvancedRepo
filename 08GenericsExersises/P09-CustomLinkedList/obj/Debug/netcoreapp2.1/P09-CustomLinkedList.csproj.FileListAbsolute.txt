@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P09-CustomLinkedList\bin\Debug\netcoreapp2.1\P09-CustomLinkedList.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P09-CustomLinkedList\bin\Debug\netcoreapp2.1\P09-CustomLinkedList.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P09-CustomLinkedList\bin\Debug\netcoreapp2.1\P09-CustomLinkedList.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P09-CustomLinkedList\bin\Debug\netcoreapp2.1\P09-CustomLinkedList.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P09-CustomLinkedList\bin\Debug\netcoreapp2.1\P09-CustomLinkedList.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P09-CustomLinkedList\obj\Debug\netcoreapp2.1\P09-CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P09-CustomLinkedList\obj\Debug\netcoreapp2.1\P09-CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P09-CustomLinkedList\obj\Debug\netcoreapp2.1\P09-CustomLinkedList.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P09-CustomLinkedList\obj\Debug\netcoreapp2.1\P09-CustomLinkedList.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P09-CustomLinkedList\obj\Debug\netcoreapp2.1\P09-CustomLinkedList.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P09-CustomLinkedList\obj\Debug\netcoreapp2.1\P09-CustomLinkedList.csprojAssemblyReference.cache

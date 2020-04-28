@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P01-SortEvenNumbers\bin\Debug\netcoreapp2.1\P01-SortEvenNumbers.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P01-SortEvenNumbers\bin\Debug\netcoreapp2.1\P01-SortEvenNumbers.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P01-SortEvenNumbers\bin\Debug\netcoreapp2.1\P01-SortEvenNumbers.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P01-SortEvenNumbers\bin\Debug\netcoreapp2.1\P01-SortEvenNumbers.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P01-SortEvenNumbers\bin\Debug\netcoreapp2.1\P01-SortEvenNumbers.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P01-SortEvenNumbers\obj\Debug\netcoreapp2.1\P01-SortEvenNumbers.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P01-SortEvenNumbers\obj\Debug\netcoreapp2.1\P01-SortEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P01-SortEvenNumbers\obj\Debug\netcoreapp2.1\P01-SortEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P01-SortEvenNumbers\obj\Debug\netcoreapp2.1\P01-SortEvenNumbers.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P01-SortEvenNumbers\obj\Debug\netcoreapp2.1\P01-SortEvenNumbers.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P01-SortEvenNumbers\obj\Debug\netcoreapp2.1\P01-SortEvenNumbers.pdb

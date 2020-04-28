@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsExersises\P07-CustomLinkedList\bin\Debug\netcoreapp2.1\P07-CustomLinkedList.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsExersises\P07-CustomLinkedList\bin\Debug\netcoreapp2.1\P07-CustomLinkedList.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsExersises\P07-CustomLinkedList\bin\Debug\netcoreapp2.1\P07-CustomLinkedList.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsExersises\P07-CustomLinkedList\bin\Debug\netcoreapp2.1\P07-CustomLinkedList.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsExersises\P07-CustomLinkedList\bin\Debug\netcoreapp2.1\P07-CustomLinkedList.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsExersises\P07-CustomLinkedList\obj\Debug\netcoreapp2.1\P07-CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsExersises\P07-CustomLinkedList\obj\Debug\netcoreapp2.1\P07-CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsExersises\P07-CustomLinkedList\obj\Debug\netcoreapp2.1\P07-CustomLinkedList.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsExersises\P07-CustomLinkedList\obj\Debug\netcoreapp2.1\P07-CustomLinkedList.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsExersises\P07-CustomLinkedList\obj\Debug\netcoreapp2.1\P07-CustomLinkedList.pdb

@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P02-LineNumbers\bin\Debug\netcoreapp2.1\P02-LineNumbers.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P02-LineNumbers\bin\Debug\netcoreapp2.1\P02-LineNumbers.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P02-LineNumbers\bin\Debug\netcoreapp2.1\P02-LineNumbers.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P02-LineNumbers\bin\Debug\netcoreapp2.1\P02-LineNumbers.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P02-LineNumbers\bin\Debug\netcoreapp2.1\P02-LineNumbers.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P02-LineNumbers\obj\Debug\netcoreapp2.1\P02-LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P02-LineNumbers\obj\Debug\netcoreapp2.1\P02-LineNumbers.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P02-LineNumbers\obj\Debug\netcoreapp2.1\P02-LineNumbers.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P02-LineNumbers\obj\Debug\netcoreapp2.1\P02-LineNumbers.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P02-LineNumbers\obj\Debug\netcoreapp2.1\P02-LineNumbers.pdb

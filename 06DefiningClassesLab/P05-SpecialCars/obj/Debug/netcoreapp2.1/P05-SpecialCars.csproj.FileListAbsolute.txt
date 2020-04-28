@@ -1,0 +1,12 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P05-SpecialCars\bin\Debug\netcoreapp2.1\P05-SpecialCars.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P05-SpecialCars\bin\Debug\netcoreapp2.1\P05-SpecialCars.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P05-SpecialCars\bin\Debug\netcoreapp2.1\P05-SpecialCars.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P05-SpecialCars\bin\Debug\netcoreapp2.1\P05-SpecialCars.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P05-SpecialCars\bin\Debug\netcoreapp2.1\P05-SpecialCars.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P05-SpecialCars\obj\Debug\netcoreapp2.1\P05-SpecialCars.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P05-SpecialCars\obj\Debug\netcoreapp2.1\P05-SpecialCars.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P05-SpecialCars\obj\Debug\netcoreapp2.1\P05-SpecialCars.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P05-SpecialCars\obj\Debug\netcoreapp2.1\P05-SpecialCars.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P05-SpecialCars\obj\Debug\netcoreapp2.1\P05-SpecialCars.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P05-SpecialCars\obj\Debug\netcoreapp2.1\P05-SpecialCars.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P05-SpecialCars\obj\Debug\netcoreapp2.1\P05-SpecialCars.genruntimeconfig.cache

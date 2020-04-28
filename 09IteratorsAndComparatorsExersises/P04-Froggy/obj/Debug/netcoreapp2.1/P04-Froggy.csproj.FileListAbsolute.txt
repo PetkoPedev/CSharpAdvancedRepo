@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P04-Froggy\bin\Debug\netcoreapp2.1\P04-Froggy.deps.json
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P04-Froggy\bin\Debug\netcoreapp2.1\P04-Froggy.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P04-Froggy\bin\Debug\netcoreapp2.1\P04-Froggy.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P04-Froggy\bin\Debug\netcoreapp2.1\P04-Froggy.dll
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P04-Froggy\bin\Debug\netcoreapp2.1\P04-Froggy.pdb
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P04-Froggy\obj\Debug\netcoreapp2.1\P04-Froggy.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P04-Froggy\obj\Debug\netcoreapp2.1\P04-Froggy.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P04-Froggy\obj\Debug\netcoreapp2.1\P04-Froggy.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P04-Froggy\obj\Debug\netcoreapp2.1\P04-Froggy.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P04-Froggy\obj\Debug\netcoreapp2.1\P04-Froggy.dll
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P04-Froggy\obj\Debug\netcoreapp2.1\P04-Froggy.pdb

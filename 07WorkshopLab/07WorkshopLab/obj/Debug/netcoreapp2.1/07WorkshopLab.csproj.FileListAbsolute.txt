@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\07WorkshopLab\07WorkshopLab\bin\Debug\netcoreapp2.1\07WorkshopLab.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\07WorkshopLab\07WorkshopLab\bin\Debug\netcoreapp2.1\07WorkshopLab.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\07WorkshopLab\07WorkshopLab\bin\Debug\netcoreapp2.1\07WorkshopLab.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\07WorkshopLab\07WorkshopLab\bin\Debug\netcoreapp2.1\07WorkshopLab.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\07WorkshopLab\07WorkshopLab\bin\Debug\netcoreapp2.1\07WorkshopLab.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\07WorkshopLab\07WorkshopLab\obj\Debug\netcoreapp2.1\07WorkshopLab.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\07WorkshopLab\07WorkshopLab\obj\Debug\netcoreapp2.1\07WorkshopLab.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\07WorkshopLab\07WorkshopLab\obj\Debug\netcoreapp2.1\07WorkshopLab.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\07WorkshopLab\07WorkshopLab\obj\Debug\netcoreapp2.1\07WorkshopLab.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\07WorkshopLab\07WorkshopLab\obj\Debug\netcoreapp2.1\07WorkshopLab.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\07WorkshopLab\07WorkshopLab\obj\Debug\netcoreapp2.1\07WorkshopLab.pdb

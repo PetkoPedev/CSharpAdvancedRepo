@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P06-GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\P06-GenericCountMethodDoubles.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P06-GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\P06-GenericCountMethodDoubles.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P06-GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\P06-GenericCountMethodDoubles.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P06-GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\P06-GenericCountMethodDoubles.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P06-GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\P06-GenericCountMethodDoubles.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P06-GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\P06-GenericCountMethodDoubles.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P06-GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\P06-GenericCountMethodDoubles.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P06-GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\P06-GenericCountMethodDoubles.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P06-GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\P06-GenericCountMethodDoubles.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsExersises\P06-GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\P06-GenericCountMethodDoubles.pdb

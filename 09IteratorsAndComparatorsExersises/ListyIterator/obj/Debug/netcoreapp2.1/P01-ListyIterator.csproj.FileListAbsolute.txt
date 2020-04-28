@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\ListyIterator\bin\Debug\netcoreapp2.1\P01-ListyIterator.deps.json
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\ListyIterator\bin\Debug\netcoreapp2.1\P01-ListyIterator.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\ListyIterator\bin\Debug\netcoreapp2.1\P01-ListyIterator.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\ListyIterator\bin\Debug\netcoreapp2.1\P01-ListyIterator.dll
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\ListyIterator\bin\Debug\netcoreapp2.1\P01-ListyIterator.pdb
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\ListyIterator\obj\Debug\netcoreapp2.1\P01-ListyIterator.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\ListyIterator\obj\Debug\netcoreapp2.1\P01-ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\ListyIterator\obj\Debug\netcoreapp2.1\P01-ListyIterator.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\ListyIterator\obj\Debug\netcoreapp2.1\P01-ListyIterator.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\ListyIterator\obj\Debug\netcoreapp2.1\P01-ListyIterator.dll
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\ListyIterator\obj\Debug\netcoreapp2.1\P01-ListyIterator.pdb

@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P04-AddVAT\bin\Debug\netcoreapp2.1\P04-AddVAT.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P04-AddVAT\bin\Debug\netcoreapp2.1\P04-AddVAT.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P04-AddVAT\bin\Debug\netcoreapp2.1\P04-AddVAT.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P04-AddVAT\bin\Debug\netcoreapp2.1\P04-AddVAT.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P04-AddVAT\bin\Debug\netcoreapp2.1\P04-AddVAT.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P04-AddVAT\obj\Debug\netcoreapp2.1\P04-AddVAT.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P04-AddVAT\obj\Debug\netcoreapp2.1\P04-AddVAT.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P04-AddVAT\obj\Debug\netcoreapp2.1\P04-AddVAT.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P04-AddVAT\obj\Debug\netcoreapp2.1\P04-AddVAT.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P04-AddVAT\obj\Debug\netcoreapp2.1\P04-AddVAT.pdb

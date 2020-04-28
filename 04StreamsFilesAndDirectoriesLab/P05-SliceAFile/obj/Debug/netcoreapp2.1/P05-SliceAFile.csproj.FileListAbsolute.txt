@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P05-SliceAFile\bin\Debug\netcoreapp2.1\P05-SliceAFile.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P05-SliceAFile\bin\Debug\netcoreapp2.1\P05-SliceAFile.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P05-SliceAFile\bin\Debug\netcoreapp2.1\P05-SliceAFile.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P05-SliceAFile\bin\Debug\netcoreapp2.1\P05-SliceAFile.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P05-SliceAFile\bin\Debug\netcoreapp2.1\P05-SliceAFile.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P05-SliceAFile\obj\Debug\netcoreapp2.1\P05-SliceAFile.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P05-SliceAFile\obj\Debug\netcoreapp2.1\P05-SliceAFile.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P05-SliceAFile\obj\Debug\netcoreapp2.1\P05-SliceAFile.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P05-SliceAFile\obj\Debug\netcoreapp2.1\P05-SliceAFile.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P05-SliceAFile\obj\Debug\netcoreapp2.1\P05-SliceAFile.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P05-SliceAFile\obj\Debug\netcoreapp2.1\P05-SliceAFile.pdb

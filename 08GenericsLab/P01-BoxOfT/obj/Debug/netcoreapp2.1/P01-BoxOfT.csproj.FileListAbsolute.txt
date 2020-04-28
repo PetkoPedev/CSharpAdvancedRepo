@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P01-BoxOfT\obj\Debug\netcoreapp2.1\P01-BoxOfT.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P01-BoxOfT\obj\Debug\netcoreapp2.1\P01-BoxOfT.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P01-BoxOfT\obj\Debug\netcoreapp2.1\P01-BoxOfT.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P01-BoxOfT\obj\Debug\netcoreapp2.1\P01-BoxOfT.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P01-BoxOfT\bin\Debug\netcoreapp2.1\P01-BoxOfT.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P01-BoxOfT\bin\Debug\netcoreapp2.1\P01-BoxOfT.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P01-BoxOfT\bin\Debug\netcoreapp2.1\P01-BoxOfT.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P01-BoxOfT\bin\Debug\netcoreapp2.1\P01-BoxOfT.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P01-BoxOfT\bin\Debug\netcoreapp2.1\P01-BoxOfT.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P01-BoxOfT\obj\Debug\netcoreapp2.1\P01-BoxOfT.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P01-BoxOfT\obj\Debug\netcoreapp2.1\P01-BoxOfT.pdb

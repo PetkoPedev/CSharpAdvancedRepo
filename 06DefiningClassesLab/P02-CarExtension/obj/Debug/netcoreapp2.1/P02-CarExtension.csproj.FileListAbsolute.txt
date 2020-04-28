@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P02-CarExtension\bin\Debug\netcoreapp2.1\P02-CarExtension.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P02-CarExtension\bin\Debug\netcoreapp2.1\P02-CarExtension.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P02-CarExtension\bin\Debug\netcoreapp2.1\P02-CarExtension.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P02-CarExtension\bin\Debug\netcoreapp2.1\P02-CarExtension.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P02-CarExtension\bin\Debug\netcoreapp2.1\P02-CarExtension.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P02-CarExtension\obj\Debug\netcoreapp2.1\P02-CarExtension.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P02-CarExtension\obj\Debug\netcoreapp2.1\P02-CarExtension.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P02-CarExtension\obj\Debug\netcoreapp2.1\P02-CarExtension.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P02-CarExtension\obj\Debug\netcoreapp2.1\P02-CarExtension.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P02-CarExtension\obj\Debug\netcoreapp2.1\P02-CarExtension.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\06DefiningClassesLab\P02-CarExtension\obj\Debug\netcoreapp2.1\P02-CarExtension.pdb

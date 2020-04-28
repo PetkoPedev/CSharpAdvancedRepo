@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P01-RecursiveArraySum\bin\Debug\netcoreapp2.1\P01-RecursiveArraySum.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P01-RecursiveArraySum\bin\Debug\netcoreapp2.1\P01-RecursiveArraySum.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P01-RecursiveArraySum\bin\Debug\netcoreapp2.1\P01-RecursiveArraySum.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P01-RecursiveArraySum\bin\Debug\netcoreapp2.1\P01-RecursiveArraySum.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P01-RecursiveArraySum\bin\Debug\netcoreapp2.1\P01-RecursiveArraySum.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P01-RecursiveArraySum\obj\Debug\netcoreapp2.1\P01-RecursiveArraySum.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P01-RecursiveArraySum\obj\Debug\netcoreapp2.1\P01-RecursiveArraySum.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P01-RecursiveArraySum\obj\Debug\netcoreapp2.1\P01-RecursiveArraySum.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P01-RecursiveArraySum\obj\Debug\netcoreapp2.1\P01-RecursiveArraySum.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P01-RecursiveArraySum\obj\Debug\netcoreapp2.1\P01-RecursiveArraySum.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P01-RecursiveArraySum\obj\Debug\netcoreapp2.1\P01-RecursiveArraySum.pdb

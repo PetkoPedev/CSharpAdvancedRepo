@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P04-MatrixShuffling\bin\Debug\netcoreapp2.1\P04-MatrixShuffling.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P04-MatrixShuffling\bin\Debug\netcoreapp2.1\P04-MatrixShuffling.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P04-MatrixShuffling\bin\Debug\netcoreapp2.1\P04-MatrixShuffling.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P04-MatrixShuffling\bin\Debug\netcoreapp2.1\P04-MatrixShuffling.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P04-MatrixShuffling\bin\Debug\netcoreapp2.1\P04-MatrixShuffling.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P04-MatrixShuffling\obj\Debug\netcoreapp2.1\P04-MatrixShuffling.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P04-MatrixShuffling\obj\Debug\netcoreapp2.1\P04-MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P04-MatrixShuffling\obj\Debug\netcoreapp2.1\P04-MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P04-MatrixShuffling\obj\Debug\netcoreapp2.1\P04-MatrixShuffling.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P04-MatrixShuffling\obj\Debug\netcoreapp2.1\P04-MatrixShuffling.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\02MultidimentionalArraysExersises\P04-MatrixShuffling\obj\Debug\netcoreapp2.1\P04-MatrixShuffling.pdb

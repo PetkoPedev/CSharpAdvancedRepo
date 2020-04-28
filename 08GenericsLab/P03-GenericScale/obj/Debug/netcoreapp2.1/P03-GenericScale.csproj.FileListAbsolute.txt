@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P03-GenericScale\obj\Debug\netcoreapp2.1\P03-GenericScale.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P03-GenericScale\obj\Debug\netcoreapp2.1\P03-GenericScale.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P03-GenericScale\obj\Debug\netcoreapp2.1\P03-GenericScale.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P03-GenericScale\obj\Debug\netcoreapp2.1\P03-GenericScale.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P03-GenericScale\bin\Debug\netcoreapp2.1\P03-GenericScale.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P03-GenericScale\bin\Debug\netcoreapp2.1\P03-GenericScale.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P03-GenericScale\bin\Debug\netcoreapp2.1\P03-GenericScale.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P03-GenericScale\bin\Debug\netcoreapp2.1\P03-GenericScale.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P03-GenericScale\bin\Debug\netcoreapp2.1\P03-GenericScale.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P03-GenericScale\obj\Debug\netcoreapp2.1\P03-GenericScale.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P03-GenericScale\obj\Debug\netcoreapp2.1\P03-GenericScale.pdb

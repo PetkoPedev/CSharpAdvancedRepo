@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P06-EqualityLogic\bin\Debug\netcoreapp2.1\P06-EqualityLogic.deps.json
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P06-EqualityLogic\bin\Debug\netcoreapp2.1\P06-EqualityLogic.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P06-EqualityLogic\bin\Debug\netcoreapp2.1\P06-EqualityLogic.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P06-EqualityLogic\bin\Debug\netcoreapp2.1\P06-EqualityLogic.dll
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P06-EqualityLogic\bin\Debug\netcoreapp2.1\P06-EqualityLogic.pdb
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P06-EqualityLogic\obj\Debug\netcoreapp2.1\P06-EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P06-EqualityLogic\obj\Debug\netcoreapp2.1\P06-EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P06-EqualityLogic\obj\Debug\netcoreapp2.1\P06-EqualityLogic.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P06-EqualityLogic\obj\Debug\netcoreapp2.1\P06-EqualityLogic.dll
+C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsExersises\P06-EqualityLogic\obj\Debug\netcoreapp2.1\P06-EqualityLogic.pdb

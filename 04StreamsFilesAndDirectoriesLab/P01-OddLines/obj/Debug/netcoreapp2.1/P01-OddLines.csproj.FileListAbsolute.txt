@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P01-OddLines\bin\Debug\netcoreapp2.1\P01-OddLines.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P01-OddLines\bin\Debug\netcoreapp2.1\P01-OddLines.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P01-OddLines\bin\Debug\netcoreapp2.1\P01-OddLines.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P01-OddLines\bin\Debug\netcoreapp2.1\P01-OddLines.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P01-OddLines\bin\Debug\netcoreapp2.1\P01-OddLines.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P01-OddLines\obj\Debug\netcoreapp2.1\P01-OddLines.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P01-OddLines\obj\Debug\netcoreapp2.1\P01-OddLines.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P01-OddLines\obj\Debug\netcoreapp2.1\P01-OddLines.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P01-OddLines\obj\Debug\netcoreapp2.1\P01-OddLines.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P01-OddLines\obj\Debug\netcoreapp2.1\P01-OddLines.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\04StreamsFilesAndDirectoriesLab\P01-OddLines\obj\Debug\netcoreapp2.1\P01-OddLines.pdb

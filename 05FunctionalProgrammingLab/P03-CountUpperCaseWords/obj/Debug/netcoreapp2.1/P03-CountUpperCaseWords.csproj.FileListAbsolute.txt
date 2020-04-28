@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P03-CountUpperCaseWords\bin\Debug\netcoreapp2.1\P03-CountUpperCaseWords.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P03-CountUpperCaseWords\bin\Debug\netcoreapp2.1\P03-CountUpperCaseWords.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P03-CountUpperCaseWords\bin\Debug\netcoreapp2.1\P03-CountUpperCaseWords.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P03-CountUpperCaseWords\bin\Debug\netcoreapp2.1\P03-CountUpperCaseWords.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P03-CountUpperCaseWords\bin\Debug\netcoreapp2.1\P03-CountUpperCaseWords.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P03-CountUpperCaseWords\obj\Debug\netcoreapp2.1\P03-CountUpperCaseWords.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P03-CountUpperCaseWords\obj\Debug\netcoreapp2.1\P03-CountUpperCaseWords.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P03-CountUpperCaseWords\obj\Debug\netcoreapp2.1\P03-CountUpperCaseWords.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P03-CountUpperCaseWords\obj\Debug\netcoreapp2.1\P03-CountUpperCaseWords.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P03-CountUpperCaseWords\obj\Debug\netcoreapp2.1\P03-CountUpperCaseWords.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\05FunctionalProgrammingLab\P03-CountUpperCaseWords\obj\Debug\netcoreapp2.1\P03-CountUpperCaseWords.pdb
