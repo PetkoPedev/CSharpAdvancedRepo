@@ -8,3 +8,5 @@ C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P02-RecursiveFact
 C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P02-RecursiveFactorial\obj\Debug\netcoreapp2.1\P02-RecursiveFactorial.AssemblyInfo.cs
 C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P02-RecursiveFactorial\obj\Debug\netcoreapp2.1\P02-RecursiveFactorial.dll
 C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P02-RecursiveFactorial\obj\Debug\netcoreapp2.1\P02-RecursiveFactorial.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P02-RecursiveFactorial\obj\Debug\netcoreapp2.1\P02-RecursiveFactorial.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P02-RecursiveFactorial\obj\Debug\netcoreapp2.1\P02-RecursiveFactorial.genruntimeconfig.cache

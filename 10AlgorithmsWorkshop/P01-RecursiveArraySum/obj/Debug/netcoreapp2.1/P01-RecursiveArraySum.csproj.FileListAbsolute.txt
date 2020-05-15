@@ -9,3 +9,4 @@ C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P01-RecursiveArra
 C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P01-RecursiveArraySum\obj\Debug\netcoreapp2.1\P01-RecursiveArraySum.AssemblyInfo.cs
 C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P01-RecursiveArraySum\obj\Debug\netcoreapp2.1\P01-RecursiveArraySum.dll
 C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P01-RecursiveArraySum\obj\Debug\netcoreapp2.1\P01-RecursiveArraySum.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P01-RecursiveArraySum\obj\Debug\netcoreapp2.1\P01-RecursiveArraySum.genruntimeconfig.cache

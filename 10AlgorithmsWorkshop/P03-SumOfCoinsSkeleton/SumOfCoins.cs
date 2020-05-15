@@ -9,12 +9,19 @@ public class SumOfCoins
         var availableCoins = new[] { 1, 2, 5, 10, 20, 50 };
         var targetSum = 923;
 
-        var selectedCoins = ChooseCoins(availableCoins, targetSum);
-
-        Console.WriteLine($"Number of coins to take: {selectedCoins.Values.Sum()}");
-        foreach (var selectedCoin in selectedCoins)
+        try
         {
-            Console.WriteLine($"{selectedCoin.Value} coin(s) with value {selectedCoin.Key}");
+            var selectedCoins = ChooseCoins(availableCoins, targetSum);
+
+            Console.WriteLine($"Number of coins to take: {selectedCoins.Values.Sum()}");
+            foreach (var selectedCoin in selectedCoins)
+            {
+                Console.WriteLine($"{selectedCoin.Value} coin(s) with value {selectedCoin.Key}");
+            }
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e.Message);
         }
     }
 
@@ -36,10 +43,20 @@ public class SumOfCoins
 
             if (numberOfCoinsToTake > 0)
             {
-                chosenCoins.Add()
+                chosenCoins[currentCoinValue] = numberOfCoinsToTake;
+                currentSum += currentCoinValue * numberOfCoinsToTake;
             }
 
             coinIndex++;
+        }
+
+        if (currentSum == targetSum)
+        {
+            return chosenCoins;
+        }
+        else
+        {
+            throw new InvalidOperationException();
         }
     }
 }

@@ -1,0 +1,13 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P05-MergeSort\bin\Debug\netcoreapp3.1\P05-MergeSort.exe
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P05-MergeSort\bin\Debug\netcoreapp3.1\P05-MergeSort.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P05-MergeSort\bin\Debug\netcoreapp3.1\P05-MergeSort.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P05-MergeSort\bin\Debug\netcoreapp3.1\P05-MergeSort.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P05-MergeSort\bin\Debug\netcoreapp3.1\P05-MergeSort.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P05-MergeSort\bin\Debug\netcoreapp3.1\P05-MergeSort.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P05-MergeSort\obj\Debug\netcoreapp3.1\P05-MergeSort.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P05-MergeSort\obj\Debug\netcoreapp3.1\P05-MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P05-MergeSort\obj\Debug\netcoreapp3.1\P05-MergeSort.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P05-MergeSort\obj\Debug\netcoreapp3.1\P05-MergeSort.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P05-MergeSort\obj\Debug\netcoreapp3.1\P05-MergeSort.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P05-MergeSort\obj\Debug\netcoreapp3.1\P05-MergeSort.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P05-MergeSort\obj\Debug\netcoreapp3.1\P05-MergeSort.genruntimeconfig.cache

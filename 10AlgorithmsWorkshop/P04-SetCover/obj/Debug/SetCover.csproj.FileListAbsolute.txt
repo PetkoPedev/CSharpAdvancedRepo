@@ -1,0 +1,7 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P04-SetCover\bin\Debug\SetCover.exe.config
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P04-SetCover\bin\Debug\SetCover.exe
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P04-SetCover\bin\Debug\SetCover.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P04-SetCover\obj\Debug\SetCover.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P04-SetCover\obj\Debug\SetCover.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P04-SetCover\obj\Debug\SetCover.exe
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P04-SetCover\obj\Debug\SetCover.pdb

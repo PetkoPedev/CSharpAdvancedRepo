@@ -1,0 +1,13 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P06-QuickSort\obj\Debug\netcoreapp3.1\P06-QuickSort.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P06-QuickSort\obj\Debug\netcoreapp3.1\P06-QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P06-QuickSort\obj\Debug\netcoreapp3.1\P06-QuickSort.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P06-QuickSort\obj\Debug\netcoreapp3.1\P06-QuickSort.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P06-QuickSort\bin\Debug\netcoreapp3.1\P06-QuickSort.exe
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P06-QuickSort\bin\Debug\netcoreapp3.1\P06-QuickSort.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P06-QuickSort\bin\Debug\netcoreapp3.1\P06-QuickSort.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P06-QuickSort\bin\Debug\netcoreapp3.1\P06-QuickSort.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P06-QuickSort\bin\Debug\netcoreapp3.1\P06-QuickSort.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P06-QuickSort\bin\Debug\netcoreapp3.1\P06-QuickSort.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P06-QuickSort\obj\Debug\netcoreapp3.1\P06-QuickSort.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P06-QuickSort\obj\Debug\netcoreapp3.1\P06-QuickSort.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\10AlgorithmsWorkshop\P06-QuickSort\obj\Debug\netcoreapp3.1\P06-QuickSort.genruntimeconfig.cache
