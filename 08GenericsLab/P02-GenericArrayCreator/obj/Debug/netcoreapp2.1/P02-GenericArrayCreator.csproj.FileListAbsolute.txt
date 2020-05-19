@@ -9,3 +9,4 @@ C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P02-GenericArrayCreator\
 C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P02-GenericArrayCreator\bin\Debug\netcoreapp2.1\P02-GenericArrayCreator.pdb
 C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P02-GenericArrayCreator\obj\Debug\netcoreapp2.1\P02-GenericArrayCreator.dll
 C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P02-GenericArrayCreator\obj\Debug\netcoreapp2.1\P02-GenericArrayCreator.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\08GenericsLab\P02-GenericArrayCreator\obj\Debug\netcoreapp2.1\P02-GenericArrayCreator.genruntimeconfig.cache
