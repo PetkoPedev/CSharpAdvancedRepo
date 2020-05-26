@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Petko Pedev\\source\\repos\\09IteratorsAndComparatorsLab\\P02-LibraryIterator\\P02-LibraryIterator.csproj",
+      "projectUniqueName": "C:\\Users\\Petko Pedev\\source\\AdvancedRepos\\09IteratorsAndComparatorsLab\\P02-LibraryIterator\\P02-LibraryIterator.csproj",
       "projectName": "P02-LibraryIterator",
-      "projectPath": "C:\\Users\\Petko Pedev\\source\\repos\\09IteratorsAndComparatorsLab\\P02-LibraryIterator\\P02-LibraryIterator.csproj",
+      "projectPath": "C:\\Users\\Petko Pedev\\source\\AdvancedRepos\\09IteratorsAndComparatorsLab\\P02-LibraryIterator\\P02-LibraryIterator.csproj",
       "packagesPath": "C:\\Users\\Petko Pedev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Petko Pedev\\source\\repos\\09IteratorsAndComparatorsLab\\P02-LibraryIterator\\obj\\",
+      "outputPath": "C:\\Users\\Petko Pedev\\source\\AdvancedRepos\\09IteratorsAndComparatorsLab\\P02-LibraryIterator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -729,16 +729,23 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

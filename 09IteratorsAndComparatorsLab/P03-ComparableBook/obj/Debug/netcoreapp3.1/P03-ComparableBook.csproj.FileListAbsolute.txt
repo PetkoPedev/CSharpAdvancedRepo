@@ -1,0 +1,13 @@
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P03-ComparableBook\bin\Debug\netcoreapp3.1\P03-ComparableBook.exe
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P03-ComparableBook\bin\Debug\netcoreapp3.1\P03-ComparableBook.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P03-ComparableBook\bin\Debug\netcoreapp3.1\P03-ComparableBook.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P03-ComparableBook\bin\Debug\netcoreapp3.1\P03-ComparableBook.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P03-ComparableBook\bin\Debug\netcoreapp3.1\P03-ComparableBook.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P03-ComparableBook\bin\Debug\netcoreapp3.1\P03-ComparableBook.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P03-ComparableBook\obj\Debug\netcoreapp3.1\P03-ComparableBook.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P03-ComparableBook\obj\Debug\netcoreapp3.1\P03-ComparableBook.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P03-ComparableBook\obj\Debug\netcoreapp3.1\P03-ComparableBook.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P03-ComparableBook\obj\Debug\netcoreapp3.1\P03-ComparableBook.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P03-ComparableBook\obj\Debug\netcoreapp3.1\P03-ComparableBook.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P03-ComparableBook\obj\Debug\netcoreapp3.1\P03-ComparableBook.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P03-ComparableBook\obj\Debug\netcoreapp3.1\P03-ComparableBook.genruntimeconfig.cache

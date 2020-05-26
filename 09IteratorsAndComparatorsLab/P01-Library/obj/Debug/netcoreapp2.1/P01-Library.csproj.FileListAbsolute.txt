@@ -9,3 +9,15 @@ C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsLab\P01-Library\bin\D
 C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsLab\P01-Library\bin\Debug\netcoreapp2.1\P01-Library.pdb
 C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsLab\P01-Library\obj\Debug\netcoreapp2.1\P01-Library.dll
 C:\Users\Petko Pedev\source\repos\09IteratorsAndComparatorsLab\P01-Library\obj\Debug\netcoreapp2.1\P01-Library.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P01-Library\bin\Debug\netcoreapp2.1\P01-Library.deps.json
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P01-Library\bin\Debug\netcoreapp2.1\P01-Library.runtimeconfig.json
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P01-Library\bin\Debug\netcoreapp2.1\P01-Library.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P01-Library\bin\Debug\netcoreapp2.1\P01-Library.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P01-Library\bin\Debug\netcoreapp2.1\P01-Library.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P01-Library\obj\Debug\netcoreapp2.1\P01-Library.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P01-Library\obj\Debug\netcoreapp2.1\P01-Library.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P01-Library\obj\Debug\netcoreapp2.1\P01-Library.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P01-Library\obj\Debug\netcoreapp2.1\P01-Library.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P01-Library\obj\Debug\netcoreapp2.1\P01-Library.dll
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P01-Library\obj\Debug\netcoreapp2.1\P01-Library.pdb
+C:\Users\Petko Pedev\source\AdvancedRepos\09IteratorsAndComparatorsLab\P01-Library\obj\Debug\netcoreapp2.1\P01-Library.genruntimeconfig.cache

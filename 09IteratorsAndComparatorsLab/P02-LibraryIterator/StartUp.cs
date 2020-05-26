@@ -7,19 +7,14 @@ namespace IteratorsAndComparators
     {
         public static void Main(string[] args)
         {
-            var books = new List<Book>()
-            {
-                new Book("Harry Potter", 2000, "J.K. Rowling"),
-                new Book("Hitchicker Guide to the Galaxy", 1998, "Hulk"),
-                new Book("I, Robot", 2000, "Asimov"),
-                new Book("Programming Basics", 1998, "Hulk"),
-                new Book("Programming Fundamentals", 2000, "Nakov", "Big Joe"),
-                new Book("ABC", 1998, "Hulk")
-            };
+            Book bookOne = new Book("Animal Farm", 2003, "George Orwell");
+            Book bookTwo = new Book("The Documents in the Case", 2002, "Dorothy Sayers", "Robert Eustace");
+            Book bookThree = new Book("The Documents in the Case", 1930);
 
-            var library = new Library(books);
+            Library libraryOne = new Library();
+            Library libraryTwo = new Library(bookOne, bookTwo, bookThree);
 
-            foreach (var book in library)
+            foreach (var book in libraryTwo)
             {
                 Console.WriteLine(book.Title);
             }
